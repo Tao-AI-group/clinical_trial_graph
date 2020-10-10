@@ -1,0 +1,539 @@
+procedureOMOPID,procedureOMOPName
+19025274,oxygen
+4027509,Contraception
+4052536,Extracorporeal membrane oxygenation
+36308581,Supplemental oxygen
+4144375,Active immunization
+706637,Dialysis
+4300757,Computerized axial tomography
+407374,Central African Republic
+4273629,Chemotherapy
+4163872,Plain chest X-ray
+4180938,Imaging
+4202832,Intubation
+4240345,Physical examination
+4163951,Electrocardiographic procedure
+4182536,Transfusion
+42538189,Inject
+4271686,Rhythm method of contraception
+35622675,Infuse
+4211641,Chest imaging
+412012,Hemodialysis
+45768197,Ventilator
+4314777,Immunosuppressive therapy
+4165535,Continuous positive airway pressure ventilation treatment
+4132855,Immunization
+4222885,Isolation technique
+4127886,Hysterectomy
+4220084,Radiation
+423913,Oxygen therapy
+4029715,Radiation oncology AND/OR radiotherapy
+19006871,argipressin
+4208341,Solid organ transplant
+4330583,Vasectomy
+4324124,Peritoneal dialysis
+4302259,Medication administration: oral
+42537546,Planned contraception method
+42537894,Major surgery care management
+429799,Bilateral oophorectomy
+4013636,Magnetic resonance imaging
+4215685,Past history of procedure
+4300185,Transplantation
+4117038,Bilateral tubal ligation
+4028623,Transplantation of bone marrow
+4106628,Radiographic
+36310597,Ultrasounds
+3002644,Birth control method - Reported
+4013354,Insertion of endotracheal tube
+4139525,High flow oxygen nasal cannula
+45882909,Abstinence
+4168133,Incision of trachea
+3027941,CT Chest
+37018292,Continuous renal replacement therapy
+36310218,Pacemaker
+4307649,Surgical
+4072513,Long-term oxygen therapy
+2149843,Donation
+4125482,Splenectomy
+4059029,Supplementary benefit
+3720434,Bronchoalveolar lavage
+40973,Whole blood unit collection
+45875989,Organ transplant
+3186744,Ongoing treatment with immunosuppressive agents
+40486624,Noninvasive positive pressure ventilation
+36309413,O2/K2
+4052187,Partner unemployed
+42539565,Antiplatelet therapy contraindicated
+4141762,Oral chemotherapy
+4021316,"poliovirus vaccine, inactivated"
+4152025,Postcoital contraception
+3701751,Home-use oxygen compressor
+419819,Appendectomy
+4021976,Chronic peritoneal dialysis
+4177224,Noninvasive ventilation
+45882769,Resection
+4033232,Aspiration
+4311405,Biopsy
+4310328,Blood oxygen saturation
+4058335,CT of chest
+44782967,Long term dual antiplatelet drug therapy indicated
+4242843,Immunosuppression
+4300037,Implant
+4021326,"zoster vaccine, live"
+4337138,Transplant of lung
+4306298,Oophorectomy
+44803204,Surgical intervention indicated
+4174669,General anesthesia
+45766058,Sterilization procedure
+21499495,Med: Abdominal surgery
+44784322,Antibiotic therapy indicated
+706386,Bariatric surgery
+4298948,Ligation of fallopian tube
+4166767,Optional surgery
+4327582,Resuscitation using intravenous fluid
+4228759,Ophthalmic surgery
+4172438,Total pneumonectomy
+45876453,reconstruction
+4001541,Fallopian tube excision
+37397252,PET/CT system
+45883741,Another schedule
+4062354,Contraceptive implant education
+40707,Simple excision of inguinal hernial sac
+4256632,Upper gastrointestinal surgery
+4050864,Hemofiltration
+45762562,"Full-body MRI system, permanent magnet"
+4132738,Therapeutic phlebotomy
+4252365,Thoracic surgery
+4023403,Total hysterectomy
+4299523,Angiography
+408573,Antibiotic therapy
+35625639,Antiviral
+4019381,Biological substance
+4024656,Transfusion of blood product
+4123011,Computerized tomography guidance
+36309989,Cryoprecipitate
+4079535,Dosages
+851,unit
+4313889,Endoscopy
+45882935,Eye muscle surgery
+42872855,Uses vaginal hormone releasing ring
+4099958,Hospitalism
+429709,Evaluation procedure
+1002469,Mechanical circulatory support
+44791135,Ventilatory support
+429498,Operable
+4121697,Surgery
+4301351,Surgical procedure
+4065277,Standard ECG
+4327748,Activity therapy
+4217482,Amputation
+4092441,All bone marrow
+4032404,Bronchoscopy
+4249893,Colonoscopy
+420705,Cosmetic surgery
+4205779,Peritoneal dialysis therapy discontinued
+4024744,Barrier contraception method
+4230911,Echocardiography
+403084,Electroconvulsive therapy
+1314425,Emergency surgery
+764537,Facial reanimation
+4207158,IUD contraception
+4054047,Lobectomy
+44790257,Functional endoscopic nasal surgery
+4190432,Oral surgery
+4138487,Face tent oxygen delivery device
+46237532,NC
+421613,Percutaneous coronary intervention
+4338837,Perfusion
+4059951,Supportive pharmacotherapy
+44789362,Minor surgery planned
+4061019,Postmortem radiographic imaging
+4308496,Smoking cessation milestones
+4030107,Thyroidectomy
+4056837,Standard chest X-ray abnormal
+44783513,Tuberculosis prophylaxis
+4299658,Anti viral antibody
+44810376,Hepatitis C antiviral treatment completed
+4019433,Prostatic acid phosphatase measurement
+423232,Cardiopulmonary resuscitation
+4215132,Cardiothoracic surgery
+4184832,Coronary angioplasty
+36310793,Heart bypass surgery (coronary artery bypass graft surgery)
+42873024,Radiotherapy planning using four dimensional computed tomography
+4223728,Fresh frozen plasma
+40483096,Bypass of stomach
+4216339,Chinese herbal medicine
+406165,Hormone therapy
+35608097,Implantable pacemaker battery
+4313306,Influenza vaccination
+4166438,FH: Bowel cancer
+4215133,Neurosurgery
+45772392,Rebreathing oxygen face mask
+4327941,Psychotherapy
+4240565,Solid tumor configuration
+4303257,Stem cell
+4100637,Sternotomy
+4242804,Surgical treatment of septic abortion
+4024127,Postprocedural respiratory disorders
+4145308,12 lead ECG
+320536,Electrocardiogram abnormal
+419165,Acute respiratory distress
+44805694,Advanced respiratory support management
+4242257,Allogeneic bone marrow transplantation
+46235181,Percutaneous coronary intervention Study report
+4207679,"Procurement of patient informed consent, investigational study"
+4151769,Anti-platelet prophylaxis
+4240337,Autologous bone marrow transplant
+45763727,Checking of automatic implantable cardiac defibrillator
+8568,baseline
+4304921,Bilateral orchidectomy
+41346,Radiologic opacity
+36308824,Abnormal brain MRI
+35916704,"Brain@Surgery, NOS"
+4255407,Cardiac surgery
+4004519,Cataract surgery
+724939,"Radiologic examination, chest"
+4058327,Tomography - chest
+41881318,Christmas Island
+376106,Disorder of the central nervous system
+4234743,Implantation of cochlear prosthetic device
+4336464,Coronary artery bypass graft
+4061009,CT of abdomen
+35807508,Curative therapy
+4062736,Screening chest X-ray
+937652,Diagnostic colonoscopy
+4042673,Procedure on heart
+2313845,"Signal-averaged electrocardiography (SAECG), with or without ECG"
+4193507,Electronic monitor
+9489,equivalent
+4044525,Excision - action
+36308029,Extubated
+22492,Foreign body in pharynx
+4046273,Fusion
+4214575,General surgery
+764864,Gynecologic surgery service
+4098033,Homozygous T-cell test
+35807403,Immunomodulatory drugs (IMiDs)
+45768178,Implantable infusion pump
+405741,Intensive care monitoring
+45889547,Interprofessional Telephone/Internet/Electronic Health Record Consultations
+44817127,Interventional radiology procedure note
+36712821,Postprocedural infection
+45889229,Surgery of intracranial arteriovenous malformation
+4322976,Procedure
+4115429,Ischemic
+36310842,Kidney transplant
+4314001,Biopsy of liver
+4080549,Lumbar puncture
+2109368,Cholecystectomy
+45877212,Medical-newborn/ neonatal resuscitation
+46270117,Retained foreign body
+4053938,Burning due to contact with hot metal objects
+4093739,Neurostimulator
+45878836,Surgery.oncologic
+36717612,Prosthetic device status
+4576757,On psychotropic medication
+45878978,Puncture
+4022173,Transfusion of red blood cells
+4146536,Renal dialysis
+4170285,Myocardial revascularization
+35936749,"Negative/normal, RT-PCR test"
+45758235,PET/MRI system
+4106154,Shunt
+4127485,Functional endoscopic sinus surgery
+41993163,Steele
+45876308,Stem Cell Transplant
+4280677,Stent
+45881689,Stimulants
+4181604,Subcutaneous contraceptive implant present
+430094,Surgical clip
+4134598,Surgical removal
+4293435,Decorative tattoo
+429725,Termination of pregnancy
+37395712,CT of thoracic spine for radiotherapy planning
+438028,Poisoning by drug AND/OR medicinal substance
+40484007,Treatment planning for repetitive transcranial magnetic stimulation
+409891,Tubal occlusion
+45878735,ECMO
+4235388,Vascular surgery
+1710612,zidovudine
+21601566,Imidazoline derivatives
+4121561,ECG lead
+35804199,AC
+4027663,Peptic ulcer
+38003475,Psychiatric/Psychological Treatments - Other
+4046792,Chemically-activated ice pack treatment
+4260518,Acupuncture
+42539077,Surgery care
+4156184,Acuteness
+2103774,Open treatment of acute shoulder dislocation
+3045986,Bone adequate {Dental arch}
+4118656,Postoperative period
+706269,Agreement
+45881056,Airway
+4114508,Ambulatory
+4128652,Strains similar
+45883113,IV Anti-coagulants
+45880431,Anticipated
+4164521,Cut-down venous cannulation
+4281995,Gene
+45880365,Assisted ventilation
+4173939,BCG vaccination
+4093429,Bilateral complete salpingectomy
+37393343,Biochemical test
+4146903,Implantation of electronic stimulator to ureter
+4295112,Immunological therapy
+4234444,Biventricular assist device
+42536005,Calcium channel blocker
+45767995,Cardiac ablation system
+412009,Cardiac transplant rejection
+706382,Thoracic and cardiac surgery
+4140835,Pulmonary resuscitation
+40492338,Cardiopulmonary exercise test
+4037672,Ultrasonography
+37396891,Antineoplastic chemotherapy regimen
+3003037,Chemotherapy treatment Cancer
+407708,Biopsy of chest wall
+4019099,Spiral computed tomography scan
+45879249,Chest radiograph
+45768421,Scanner
+36308992,X-Rays
+4140455,Home oxygen therapy
+4162723,Cognitive function finding
+4036569,Cognitive therapy
+4300821,Comfort care assessment
+4128974,Blood component
+2721358,COMPUTED TOMOGRAPHIC ANGIOGRAPHY
+4211478,Biological treatment
+4144136,Previous treatment continue
+4180039,Administration of steroid
+4052537,Continuous hemofiltration
+37208938,CT four phase scan of liver with contrast
+757683,Transfuse convalescent plasma [Volume]
+4178367,Radiographic imaging procedure
+4142645,Coronary angiography
+4163883,History of coronary artery bypass grafting
+4106548,Aortocoronary bypass of one coronary artery
+4296227,Stented coronary artery
+321109,Congenital anomaly of coronary artery
+4254477,Counseling
+4101626,Craniotomy
+4106455,Cryotherapy - action
+3623739,Eco-Gard Topical Product
+4304358,Diagnostic procedure
+261326,Viral pneumonia
+35920745,"Radiography, imaging |(Ultrasound (US), CT Scan (CT), magnetic resonance imaging (MRI), PET Scan (PET))"
+4162591,Curative - procedure intent
+44812195,Decompressive craniectomy
+4046932,Deep brain stimulation
+4059766,Free dental treatment
+45887663,"Computed tomographic (CT) colonography, diagnostic, including image postprocessing"
+4260263,Diffusion weighted magnetic resonance imaging
+2617119,"Speech generating software program, for personal computer or personal digital assistant"
+46235176,Total beats during EKG
+4143329,Cigarette lighter
+4162102,Transesophageal echocardiographic monitoring
+3039437,Donated egg [Presence]
+4013731,Elective
+4223166,Under general anesthesia
+2616731,"Osteogenesis stimulator, electrical, surgically implanted"
+4187078,Electrocardiographic monitoring
+37398742,ICED (implantable cardiac electronic device) in situ
+4314251,Laparotomy
+44791137,FP22 - emigration
+414194,Endometrial ablation
+4078199,Epidural anesthesia
+4049641,Esophageal manometry
+30753,Esophagitis
+4046265,Evacuation procedure
+414345,Experimental device
+4049795,Experimental implant
+4140369,Extracorporeal blood
+42082799,Factor
+35807211,FDA approved drug
+4242106,Occult blood in stools
+4155552,Object
+4203711,Follow-up status
+21492913,Thoughts on life-sustaining procedures if pregnant [Reported]
+43021422,Normal renal function of transplanted kidney
+4203442,Gastrectomy
+4204677,Gastrostomy
+4294621,Gel
+3037922,Hematologic transplant and endocrine procedures Cancer
+4178784,History of repair of umbilical hernia
+4129296,High dose
+46285248,Provision of high dose inhaled corticosteroid safety card
+763194,High-intensity statin therapy
+40482644,Oxygen percentage delivered
+4064903,HIV screening
+414176,Hormone replacement therapy
+2827629,Imaging @ Anatomical Regions @ Computerized Tomography (CT Scan) @ Chest and Abdomen
+21498379,Requires immediate life-saving intervention
+3174501,Implanted cardiac defibrillator infection
+42742443,Implantable cardioverter-defibrillator (ICD) counseling provided (HF)
+40760199,Implanted medical device Narrative
+4577284,Implantable cardiac pacemaker
+2721138,IMPLANTATION OF GASTRIC ELECTRICAL STIMULATION DEVICE
+4234106,Metal periosteal implant
+4158108,Wrong surgical procedure performed on a patient
+36311126,Incompatible
+21104282,Clodronic Acid Injection [Bonefos]
+45766791,Phosphodiesterase 5 inhibitor therapy
+4148981,Intensive care unit
+4121236,Intestine bypass shunt
+4147975,Intra-abdominal hernia
+442019,Complication of procedure
+4130819,Implantation of electrode into brain
+40355609,Intrauterine contraceptive device
+457668,Non-invasive cardiac output monitoring
+44807258,Measurement of blood pressure using non-invasive blood pressure monitor
+413777,Invasive pulmonary aspergillosis
+36308558,"No, not on invasive mechanical ventilation support"
+45888965,Laparoscopic Bariatric Surgery Procedures
+4251314,Laparoscopy
+4217829,Laryngectomy
+4103523,Laryngoscopy
+4040252,Low power laser therapy
+4083156,Life assurance examination and ECG completed
+4303995,Local anesthesia
+35804133,Local therapy
+42071219,Loco
+50767,Low dose CT virtual colonoscopy
+2617376,Low dose ct scan (ldct) for lung cancer screening
+36308812,Continuously depending on low oxygen flow
+4305996,On examination - lung cavitation
+37397362,Bilateral lung opacities on chest X-ray
+2847053,"Imaging @ Respiratory System @ Fluoroscopy @ Lungs, Bilateral"
+35916508,"Lung@Surgery, NOS"
+4228886,Metallic foreign body
+4248661,Magnetic resonance imaging scan declined
+4058848,H/O: major abdominal surgery
+4041193,Operation on nervous system
+4255405,Maxillofacial surgery
+45876189,Medical devices
+4115153,Medical termination of pregnancy
+45758369,"Ligation clip, metallic"
+4069693,Structural metal marker
+4000891,Heart valve reconstruction
+4127998,Metallic material
+4040597,Minimum radiation target dose
+407978,Mobility aid
+2212493,Molecular diagnostics; RNA stabilization
+45762462,Electrocardiography telemetric monitoring system
+4044908,Action
+4328023,MRI of breast implant
+38003159,Medical/Surgical Supplies and Devices - Pace Maker
+4170271,MRI venography
+46292277,GAME DAY MSC MAINSTREET COLLECTION HAND SANITIZER - alcohol liquid
+4223321,Multiple gated acquisition scanning
+4321705,Murine pneumonia virus
+45888518,"Biopsy, muscle"
+4330329,Nepal
+4027426,Kidney excision
+4478283,Failed neuraxial anesthesia
+45770563,Neuroimaging requested
+706581,Neurological surgery
+4305615,Electrocardiogram unchanged compared to prior study
+3020812,Non cancer directed surgery summary
+4017169,Cardiac treatment changed
+3025779,CT Head WO contrast
+40492989,Uses hormone releasing intrauterine device contraception
+44813447,Non-invasive ventilation therapy review
+36307523,Invasive mechanical ventilator (ventilator or respirator)
+3176607,Biventricular pacemaker with defibrillator
+1321341,norepinephrine
+4019953,Donor for medical or surgical procedure
+4064615,EKG: P wave normal
+35918744,LDH Upper Limits of Normal
+4064863,ECG not done
+37396411,Assessment using Birmingham Object Recognition Battery
+38004262,Ambulatory Ophthalmologic Surgery Clinic/Center
+4335481,Orotracheal intubation
+706397,Orthopaedic surgery
+42527501,Plastic surgery Fellow Note
+38004465,Orthopedic Surgery
+4152946,Gastric electrical activity
+4112122,Adjustment of implant
+4232629,Psychiatric somatotherapy
+4148887,Patient on waiting list
+45876504,Surgery.pediatric
+4085116,Percutaneous endovascular device procedure
+4302042,Permanent cardiac pacemaker
+36716213,Physiotherapy
+2002711,Endoscopic excision or destruction of lesion of duodenum
+35806272,VT
+42872445,Positron emission tomography with computed tomography
+416285,Possible
+4148431,History of whole blood donation
+4276025,Postcardiac injury pericarditis
+4239471,Postpartum depression
+13983,Recruitment
+4237289,Sympathectomy
+4107432,Primary hybrid total replacement ankle joint
+4161019,Primary procedure
+4017599,Excision of colon and rectum
+4295705,Exploratory incision
+4118659,Prophylactic
+35917007,"Prostate@Surgery, NOS"
+4230209,Psychiatric follow-up
+3046398,CT Pulmonary system
+4019239,Open pulmonary embolectomy
+253954,Pulmonary tuberculosis
+427417,"Pulmonary perfusion imaging, gaseous"
+432295,Thrombectomy of pulmonary artery
+2790297,Plaque Radiation of Lung
+4146276,Pain radiating to center of chest
+45888131,Radiologic examination
+1004118,Radiology
+45884381,Radiology/imaging
+42742412,Symptoms demonstrated clinically important deterioration since last assessment (HF)
+4305728,Psychological therapies
+4274816,Recent
+4056822,Anticoagulant therapy
+2003003,Other resection of rectum
+4162381,Failed regional anesthesia
+4100052,Regional anesthesia
+36310721,"Renal replacement therapy: Hemodialysis, in-center and home"
+4080984,Replacement therapy
+45765577,Requires oxygen therapy during exercise
+442555,Breathing painful
+40492529,Revision of prosthetic replacement of joint
+4205566,Revision of extraocular muscle surgery
+42593483,Rhinosinusitis
+423516,Right ventricular assist device
+4245372,Phlebotomy
+36310977,Supportive care with no Renal Replacement Therapy (RRT)
+45878057,Same Day/Ambulatory Surgery
+221326,"Chromosome analysis for breakage syndromes; baseline Sister Chromatid Exchange (SCE), 20-25 cells"
+2615763,"Catheter, hemodialysis/peritoneal, short-term"
+40776232,Small molecules
+45882908,Spermicidal foam or jelly
+37079536,Spinal surgery
+4176683,Injection of steroid
+1519937,etonogestrel 68 MG Drug Implant
+4115464,Mean
+4153285,Temperature symptoms
+45772372,Podiatric treatment system
+45637137,LEADER TABTUSSIN DM TDM - dextromethorphan hydrobromide / guaifenesin tablet
+4152895,Time aspect
+4272314,Biomedical device
+4073393,Opening of chest
+40483276,Limited thoracotomy and biopsy of lung
+37016659,Total body electron beam therapy
+4096461,Total colectomy
+4131021,Total gastrectomy
+4130829,Platelet transfusion
+4108471,Burn of digit of hand
+4041437,Radiologic finding
+35608102,Physically prepared to undergo surgery
+4230166,Care of patient undergoing electroconvulsive therapy
+4080071,Non-urgent plastic surgery admission
+45876597,Surgery.urology
+423255,Home visit for mechanical ventilation care
+4145119,Heart valve replacement
+42427,Pulmonary ventilation perfusion study
+3039575,NM Thyroid gland Views W Tc-99m IV
+4218364,Viral neutralization test
+4137187,Visceral
+46235288,Do you have someone with whom to relax [PROMIS]
+421552,DXA scan contraindicated

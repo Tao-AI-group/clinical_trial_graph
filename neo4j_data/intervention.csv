@@ -1,0 +1,3168 @@
+interventionName,interventionID
+hydroxychloroquine [drug],intervention_0
+azithromycin [drug],intervention_1
+convalescent plasma [biological],intervention_2
+no intervention [other],intervention_3
+placebo oral tablet [drug],intervention_4
+tocilizumab [drug],intervention_5
+questionnaire [other],intervention_6
+favipiravir [drug],intervention_7
+ivermectin [drug],intervention_8
+remdesivir [drug],intervention_9
+placebos [drug],intervention_10
+standard of care [drug],intervention_11
+survey [other],intervention_12
+lopinavir/ritonavir [drug],intervention_13
+methylprednisolone [drug],intervention_14
+chloroquine [drug],intervention_15
+ruxolitinib [drug],intervention_16
+covid-19 convalescent plasma [biological],intervention_17
+nitazoxanide [drug],intervention_18
+vitamin d [dietary supplement],intervention_19
+losartan [drug],intervention_20
+baricitinib [drug],intervention_21
+enoxaparin [drug],intervention_22
+colchicine [drug],intervention_23
+convalescent plasma [drug],intervention_24
+blood sample [other],intervention_25
+vitamin c [dietary supplement],intervention_26
+online survey [other],intervention_27
+lung ultrasound [diagnostic test],intervention_28
+hydroxychloroquine + azithromycin [drug],intervention_29
+sarilumab [drug],intervention_30
+vitamin d3 [dietary supplement],intervention_31
+anakinra [drug],intervention_32
+standard treatment [drug],intervention_33
+fludase [drug],intervention_34
+umbilical cord mesenchymal stem cells [biological],intervention_35
+lopinavir / ritonavir [drug],intervention_36
+camostat mesilate [drug],intervention_37
+povidone-iodine [drug],intervention_38
+zinc [drug],intervention_39
+questionnaire assesment [other],intervention_40
+oseltamivir [drug],intervention_41
+anti-sars-cov-2 convalescent plasma [biological],intervention_42
+interferon beta-1a [drug],intervention_43
+nitric oxide [drug],intervention_44
+interferon beta-1b [drug],intervention_45
+clazakizumab [drug],intervention_46
+mesenchymal stromal cells [biological],intervention_47
+hydrocortisone [drug],intervention_48
+doxycycline [drug],intervention_49
+bacillus calmette–guérin vaccine [biological],intervention_50
+dexamethasone [drug],intervention_51
+telemedicine [other],intervention_52
+vitamin c [drug],intervention_53
+data collection [other],intervention_54
+mavrilimumab [drug],intervention_55
+blood sample [biological],intervention_56
+nasopharyngeal swab [diagnostic test],intervention_57
+unfractionated heparin [drug],intervention_58
+sars-cov-2 convalescent plasma [biological],intervention_59
+tofacitinib [drug],intervention_60
+chloroquine phosphate [drug],intervention_61
+rivaroxaban [drug],intervention_62
+heparin [drug],intervention_63
+saline [biological],intervention_64
+sargramostim [drug],intervention_65
+covid-19 reverse transcription polymerase chain reaction test [diagnostic test],intervention_66
+prone positioning [other],intervention_67
+placebo oral capsule [drug],intervention_68
+colchicine tablets [drug],intervention_69
+therapeutic anticoagulation [drug],intervention_70
+ascorbic acid [drug],intervention_71
+prednisone [drug],intervention_72
+chloroquine or hydroxychloroquine [drug],intervention_73
+vitamin super b-complex [dietary supplement],intervention_74
+saline [other],intervention_75
+peginterferon lambda-1a [drug],intervention_76
+suspension of heat killed (autoclaved) mycobacterium w [drug],intervention_77
+questionnaire administration [other],intervention_78
+other [other],intervention_79
+convalescent plasma (cp) [biological],intervention_80
+nivolumab [drug],intervention_81
+recombinant novel coronavirus vaccine (adenovirus type 5 vector) [biological],intervention_82
+observation [other],intervention_83
+low molecular weight heparin [drug],intervention_84
+probiotic [dietary supplement],intervention_85
+blood sampling [other],intervention_86
+nitric oxide gas [drug],intervention_87
+opaganib [drug],intervention_88
+survey administration [other],intervention_89
+low dose radiation therapy [radiation],intervention_90
+coviage [device],intervention_91
+normal saline [drug],intervention_92
+self-administered questionnaire [other],intervention_93
+vpm1002 tuberculosis vaccine [biological],intervention_94
+best practice [other],intervention_95
+ace inhibitor [drug],intervention_96
+zinc [dietary supplement],intervention_97
+tocilizumab [biological],intervention_98
+data record [other],intervention_99
+3d telemedicine [other],intervention_100
+questionnaires [other],intervention_101
+prospective study with two measurement points investigating the impact of viral mitigation protocols on mental health [behavioral],intervention_102
+blood donation short message service [behavioral],intervention_103
+telerehabilitation [other],intervention_104
+ad26.cov2.s [biological],intervention_105
+duvelisib [drug],intervention_106
+peripheral blood draw [procedure],intervention_107
+deferoxamine [drug],intervention_108
+pulmozyme [drug],intervention_109
+convalescent plasma transfusion [drug],intervention_110
+exposure [other],intervention_111
+hyperbaric oxygen therapy [device],intervention_112
+practice details [other],intervention_113
+melatonin [drug],intervention_114
+best supportive care [other],intervention_115
+regn10933+regn10987 combination therapy [drug],intervention_116
+tocilizumab injection [drug],intervention_117
+standard therapy [drug],intervention_118
+blood samples [biological],intervention_119
+standard medical treatment [drug],intervention_120
+thymalfasin [drug],intervention_121
+matching placebo [drug],intervention_122
+acetylsalicylic acid [drug],intervention_123
+acalabrutinib [drug],intervention_124
+telmisartan [drug],intervention_125
+normal saline [other],intervention_126
+standard care [other],intervention_127
+standard care [combination product],intervention_128
+nafamostat mesilate [drug],intervention_129
+siltuximab [drug],intervention_130
+olokizumab [drug],intervention_131
+control [other],intervention_132
+cyclosporine [drug],intervention_133
+sirolimus [drug],intervention_134
+imatinib [drug],intervention_135
+computed tomography scan [diagnostic test],intervention_136
+blood sampling [procedure],intervention_137
+ivermectin oral product [drug],intervention_138
+ly-cov555 [drug],intervention_139
+radiation therapy [radiation],intervention_140
+saliva collection [diagnostic test],intervention_141
+chloroquine sulfate [drug],intervention_142
+pul-042 inhalation solution [drug],intervention_143
+ciclesonide [drug],intervention_144
+hope biosciences autologous mesenchymal stem cell therapy [drug],intervention_145
+azithromycin tablets [drug],intervention_146
+sars-cov-2 [diagnostic test],intervention_147
+quality-of-life assessment [other],intervention_148
+human immunoglobulin [drug],intervention_149
+hormones [drug],intervention_150
+tocilizumab (tcz) [drug],intervention_151
+thalidomide [drug],intervention_152
+bacillus calmette–guérin vaccine [drug],intervention_153
+convalescent plasma (anti-sars-cov-2 plasma) [biological],intervention_154
+bnt162b1 [biological],intervention_155
+bnt162b2 [biological],intervention_156
+kb109 + self supportive care (ssc) [other],intervention_157
+self supportive care (ssc) alone [other],intervention_158
+low dosage inactivated sars-cov-2 vaccine on a 0- and 28-day schedule [biological],intervention_159
+inactivated sars-cov-2 vaccine [biological],intervention_160
+placebo on a 0- and 28-day schedule [biological],intervention_161
+saline solution [other],intervention_162
+edp1815 [drug],intervention_163
+interview [other],intervention_164
+routine care for covid-19 patients [other],intervention_165
+ruxolitinib oral tablet [drug],intervention_166
+online questionnaire [diagnostic test],intervention_167
+sab-185 [biological],intervention_168
+normal saline [other],intervention_169
+remdesivir placebo [drug],intervention_170
+awake prone positioning [procedure],intervention_171
+canakinumab [drug],intervention_172
+levamisole and isoprinosine [drug],intervention_173
+mrna-1273 [biological],intervention_174
+dexamethasone injection [drug],intervention_175
+placebo administration [drug],intervention_176
+stellate ganglion block [procedure],intervention_177
+td-0903 [drug],intervention_178
+standard therapy [other],intervention_179
+baricitinib oral tablet [drug],intervention_180
+biological sample collection [diagnostic test],intervention_181
+aerosol box [device],intervention_182
+hydroxychloroquine and azithromycin [drug],intervention_183
+remestemcel-l [biological],intervention_184
+n-acetylcysteine [drug],intervention_185
+ophthalmologic exam [procedure],intervention_186
+matched placebo [drug],intervention_187
+interleukin-7 [drug],intervention_188
+covid-19 therapeutic vaccine - nucleocapsid-gm-csf protein lactated ringer's injection [biological],intervention_189
+sample collection [other],intervention_190
+recombinant human interleukin-7 [drug],intervention_191
+bevacizumab injection [drug],intervention_192
+pulmonary ultrasound [other],intervention_193
+aspirin [drug],intervention_194
+simvastatin [drug],intervention_195
+observational [other],intervention_196
+therapeutic plasma exchange [procedure],intervention_197
+risk factors [other],intervention_198
+sars-cov-2 diagnostic rapid test [diagnostic test],intervention_199
+oxygen therapy [device],intervention_200
+eculizumab [drug],intervention_201
+dornase alfa inhalation solution [pulmozyme] [drug],intervention_202
+web based survey [other],intervention_203
+hydroxychloroquine sulfate tablets [drug],intervention_204
+methylprednisolone sodium succinate [drug],intervention_205
+zinc gluconate [dietary supplement],intervention_206
+aeonose [device],intervention_207
+prone position [procedure],intervention_208
+muscle ultrasound [diagnostic test],intervention_209
+ibrutinib [drug],intervention_210
+saliva collection [biological],intervention_211
+anti-sars-cov2 serology [diagnostic test],intervention_212
+questionnaire [behavioral],intervention_213
+clopidogrel [drug],intervention_214
+eidd-2801 [drug],intervention_215
+hydroxychloroquine + placebo [drug],intervention_216
+niclosamide [drug],intervention_217
+electrocardiogram [diagnostic test],intervention_218
+nigella sativa / black cumin [drug],intervention_219
+venous ultrasound [other],intervention_220
+blood tests [diagnostic test],intervention_221
+l-ascorbic acid [drug],intervention_222
+sivomixx [dietary supplement],intervention_223
+high-flow nasal cannula [device],intervention_224
+patient-reported online questionnaire on olfactory & taste disturbances [other],intervention_225
+blood sampling [biological],intervention_226
+angiotensin ii receptor blockers [drug],intervention_227
+ebselen [drug],intervention_228
+observational study [other],intervention_229
+prone positioning [procedure],intervention_230
+covid-19 [other],intervention_231
+sars-cov2 testing [diagnostic test],intervention_232
+follow up [other],intervention_233
+blood draw [other],intervention_234
+physiotherapy [other],intervention_235
+ribavirin [drug],intervention_236
+lopinavir-ritonavir [drug],intervention_237
+sevoflurane [drug],intervention_238
+blood sample [diagnostic test],intervention_239
+phone call [other],intervention_240
+non-interventional [other],intervention_241
+prone positioning (pp) [procedure],intervention_242
+electronic questionnaire [other],intervention_243
+leronlimab [drug],intervention_244
+vv-ecmo + cytokine adsorption (cytosorb adsorber) [device],intervention_245
+vv-ecmo only (no cytokine adsorption) [device],intervention_246
+chadox1 ncov-19 [biological],intervention_247
+prone position [other],intervention_248
+plasma [drug],intervention_249
+selinexor [drug],intervention_250
+cellectra¬¨√¶ 2000 [device],intervention_251
+corticosteroid [drug],intervention_252
+abidol hydrochloride [drug],intervention_253
+rlf-100 (aviptadil) [drug],intervention_254
+recop unit patient [other],intervention_255
+yoga [other],intervention_256
+covid-19 pandemic [other],intervention_257
+chloroquine diphosphate [drug],intervention_258
+2d telemedicine [other],intervention_259
+pregnant women with laboratory-confirmed 2019-n-cov [other],intervention_260
+online questionnaire [other],intervention_261
+file scanning [other],intervention_262
+retrospective analysis [other],intervention_263
+"magpro x100 stimulator, b70 fluid-cooled coil [device]",intervention_264
+anti-sars-cov-2 human convalescent plasma [biological],intervention_265
+tele-yoga therapy [other],intervention_266
+exercise brochure [other],intervention_267
+azd1222 [biological],intervention_268
+standard treatment [other],intervention_269
+dwrx2003 [drug],intervention_270
+early-dexamethasone [drug],intervention_271
+flow cytometric analysis [diagnostic test],intervention_272
+biological data [biological],intervention_273
+avigan 200 mg film tablets [drug],intervention_274
+decitabine [drug],intervention_275
+placebo saline [other],intervention_276
+infliximab [drug],intervention_277
+tramadol [drug],intervention_278
+compound 21 [drug],intervention_279
+lopinavir / ritonavir pill [drug],intervention_280
+isotretinoin [drug],intervention_281
+lactoferrin [drug],intervention_282
+autologous adipose-derived stem cells [biological],intervention_283
+elisa [diagnostic test],intervention_284
+rt-pcr [diagnostic test],intervention_285
+olfactory device [device],intervention_286
+clevudine [drug],intervention_287
+aspirin 75mg [drug],intervention_288
+clopidogrel 75mg [drug],intervention_289
+rivaroxaban 2.5 mg [drug],intervention_290
+atorvastatin 40mg [drug],intervention_291
+omeprazole 20mg [drug],intervention_292
+txa127 [drug],intervention_293
+aprepitant injectable emulsion [drug],intervention_294
+saline placebo [drug],intervention_295
+ventaprost (inhaled epoprostenol delivered via a dedicated delivery system) [drug],intervention_296
+enoxaparin sodium [drug],intervention_297
+fondapariniux [drug],intervention_298
+argatroban [drug],intervention_299
+huaier granule [drug],intervention_300
+covid convalescent plasma [biological],intervention_301
+oxyhydrogen [device],intervention_302
+oxygen [device],intervention_303
+abx464 [drug],intervention_304
+covid-19 facility [other],intervention_305
+placebo (methylcellulose) capsule [other],intervention_306
+dietary supplement containing resistant starch [drug],intervention_307
+placebo starch [dietary supplement],intervention_308
+draw blood [other],intervention_309
+ft516 [drug],intervention_310
+"d-dimer,cbc.esr,crp, [diagnostic test]",intervention_311
+"liver function tests ,serum ferritin and pcr for covid-19 . [diagnostic test]",intervention_312
+oral administration of colchicine plus herbal phenolic monoterpene fractions [drug],intervention_313
+best supportive care (bsc) + ifx-1 [drug],intervention_314
+best supportive care only [drug],intervention_315
+soc + intravenous famotidine [drug],intervention_316
+soc + placebo [drug],intervention_317
+cohort [other],intervention_318
+assessing impact of covid19 [other],intervention_319
+"oral nutrition supplement (ons) enriched in eicosapentaenoic acid, gamma-linolenic acid and antioxidants [dietary supplement]",intervention_320
+isocaloric/isonutrigenous ons [dietary supplement],intervention_321
+exchange blood transfusion from normal donor [biological],intervention_322
+plasma from convalescent patients with covid-19 [biological],intervention_323
+methylene blue 5 mg/ml [drug],intervention_324
+ct-scan with minimal invasive autopsy [procedure],intervention_325
+ivermectin plus nitazoxanide [combination product],intervention_326
+dapagliflozin 10 mg [drug],intervention_327
+transfusion of sars-cov-2 convalescent plasma. [drug],intervention_328
+transfusion of standard plasma. [drug],intervention_329
+cpi-006 [drug],intervention_330
+anti-sars-cov-2 plasma [drug],intervention_331
+hyperimmune plasma [other],intervention_332
+pamrevlumab [drug],intervention_333
+detection of anti-covid-19 antibody level [diagnostic test],intervention_334
+ozanimod [drug],intervention_335
+1:naproxen [drug],intervention_336
+2:standard of care [drug],intervention_337
+tcm prescriptions [drug],intervention_338
+baricitinib (janus kinase inhibitor) [drug],intervention_339
+blood donation from convalescent donor [other],intervention_340
+traditional chinese medicine prescription [drug],intervention_341
+plitidepsin 1.5 mg/day [drug],intervention_342
+plitidepsin 2.0 mg/day [drug],intervention_343
+plitidepsin 2.5 mg/day [drug],intervention_344
+blood samples [other],intervention_345
+clofazimine [drug],intervention_346
+demographic and clinical data obtained from hospital's electronic medical record. [other],intervention_347
+colchicine 1 mg oral tablet [drug],intervention_348
+filmarray pneumonia [diagnostic test],intervention_349
+olfactory and gustatory tests [other],intervention_350
+ag0301-covid19 [biological],intervention_351
+recombinant human angiotensin-converting enzyme 2 (rhace2) [drug],intervention_352
+recombinant bacterial ace2 receptors -like enzyme of b38-cap (rbace2) [drug],intervention_353
+plasma donation [other],intervention_354
+blood collection on admission and longitudinally [biological],intervention_355
+blood collection on their first consultation and 10 to 14 days later [biological],intervention_356
+home care monitoring [other],intervention_357
+mls laser [device],intervention_358
+regular inpatient medical care [other],intervention_359
+"nk cells,il15-nk cells,nkg2d car-nk cells,ace2 car-nk cells,nkg2d-ace2 car-nk cells [biological]",intervention_360
+lianhua qingwen [drug],intervention_361
+plasma hyperimmune [other],intervention_362
+intravenous immune globulin [biological],intervention_363
+whole genome analysis [genetic],intervention_364
+t-cell receptor (tcr) repertoire [genetic],intervention_365
+sars-cov-2 viral composition [genetic],intervention_366
+positive covid test result - hypothetical scenario [behavioral],intervention_367
+negative covid test result - hypothetical scenario [behavioral],intervention_368
+unavailable covid test result - hypothetical scenario [behavioral],intervention_369
+covx [device],intervention_370
+hydroxychloroquine plus standard preventive measures [drug],intervention_371
+placebo plus standard preventive measures [drug],intervention_372
+ketogenic diet [dietary supplement],intervention_373
+mscs [biological],intervention_374
+no-immunosuppressive [drug],intervention_375
+immunosuppressive [drug],intervention_376
+immunoglubulins [drug],intervention_377
+bdb-001 injection [drug],intervention_378
+conventional treatment [other],intervention_379
+pyronaridine-artesunate [drug],intervention_380
+merimepodib [drug],intervention_381
+unfractionated heparin nebulized [drug],intervention_382
+web application users [device],intervention_383
+vielight rx plus [device],intervention_384
+prazosin [drug],intervention_385
+experimental group [drug],intervention_386
+placebo group [drug],intervention_387
+hydroxychloroquine plus nitazoxanide [combination product],intervention_388
+"training video on anxiety, fear and loneliness in the covid-19 environment. [behavioral]",intervention_389
+umifenovir [drug],intervention_390
+interferon-≈ì‚â§ 1a [drug],intervention_391
+standards of care [drug],intervention_392
+ciclesonide metered dose inhaler [alvesco] [drug],intervention_393
+q-nrg metobolic cart device [device],intervention_394
+musclesound ultrasound [device],intervention_395
+multifrequency bioimpedance spectroscopy [device],intervention_396
+baricitinib or anakinra [drug],intervention_397
+"reporting of anosmia, ageusia and other clinical symptoms [biological]",intervention_398
+apple watch series 5 [device],intervention_399
+telmisartan arm will receive 80 mg telmisartan twice daily plus standard care. [drug],intervention_400
+crizanlizumab [drug],intervention_401
+maraviroc 300 mg [drug],intervention_402
+placebo of hydroxychloroquine [drug],intervention_403
+lopinavir and ritonavir [drug],intervention_404
+placebo of lpv/r tablets [drug],intervention_405
+maraviroc + standard therapy [drug],intervention_406
+standard therapy for covid-19 non-critical patients [procedure],intervention_407
+favipiravir + standard therapy [drug],intervention_408
+"maraviroc, favipiravir [drug]",intervention_409
+ivermectin (iver p¬¨√¶) arm will receive ivm 600 ¬¨¬µg / kg once daily plus standard care. control arm will receive standard care. [drug],intervention_410
+chlorpromazine (cpz) [drug],intervention_411
+covid-19 rapid test kit (rapg-cov-019) [diagnostic test],intervention_412
+quantitative igg test [diagnostic test],intervention_413
+"ncapp, a cell phone-based auto-diagnosis system [other]",intervention_414
+matched placebo hydroxychloroquine [other],intervention_415
+brequinar [drug],intervention_416
+convalescent plasma of patients with covid-19 [biological],intervention_417
+placebo (hartmann plus albumine) [other],intervention_418
+"ddrops¬¨√¶ products, 50,000 iu, oral [dietary supplement]",intervention_419
+treatment for covid-19 [other],intervention_420
+covid-19 diagnostic test [diagnostic test],intervention_421
+td139 [drug],intervention_422
+lanadelumab [biological],intervention_423
+regular care [other],intervention_424
+prone [other],intervention_425
+famotidine [drug],intervention_426
+leflunomide [drug],intervention_427
+mrx-4dp0004 [drug],intervention_428
+prevalence of covid-19 [other],intervention_429
+pacebo:calcium citrate [other],intervention_430
+licorice extract [dietary supplement],intervention_431
+crisis management coaching [behavioral],intervention_432
+wearing surgical face mask sprayed with hypertonic saline [other],intervention_433
+sample collection/performance evaluation (a) [diagnostic test],intervention_434
+sample collection/performance evaluation (b) [diagnostic test],intervention_435
+this study is non- interventional [other],intervention_436
+registery data collection [behavioral],intervention_437
+hyperbaric oxygen therapy (hbot) [device],intervention_438
+resveratrol [drug],intervention_439
+survey group [other],intervention_440
+rph-104 80 mg [biological],intervention_441
+single fraction whole lung radiotherapy [radiation],intervention_442
+at-001 [drug],intervention_443
+abatacept [drug],intervention_444
+sildenafil citrate tablets [drug],intervention_445
+c3+ holter monitor [device],intervention_446
+scb-2019 [biological],intervention_447
+scb-2019 with as03 adjuvant [biological],intervention_448
+scb-2019 with cpg 1018 adjuvant plus alum adjuvant [biological],intervention_449
+peripheral blood sampling [diagnostic test],intervention_450
+self-prone position recommendation [other],intervention_451
+zilucoplan¬¨√¶ [drug],intervention_452
+therapeutic plasma exchange (tpe) [biological],intervention_453
+surgical facial mask [other],intervention_454
+gimsilumab [drug],intervention_455
+atorvastatin [drug],intervention_456
+diet tracking and survey [other],intervention_457
+anakinra 100mg/0.67ml inj syringe [drug],intervention_458
+covid-19 serology [diagnostic test],intervention_459
+symptoms questionnare [other],intervention_460
+enoxaparin higher dose [drug],intervention_461
+lower-dose prophylactic anticoagulation [drug],intervention_462
+chlorpromazine [drug],intervention_463
+dianose [device],intervention_464
+amiodarone [drug],intervention_465
+verapamil [drug],intervention_466
+cap-1002 allogeneic cardiosphere-derived cells [biological],intervention_467
+prone position ventilation [procedure],intervention_468
+etoposide [drug],intervention_469
+outpatient mri [diagnostic test],intervention_470
+biological/vaccine:angiotensin peptide (1-7) derived plasma [biological],intervention_471
+respiratory physiotherapy [other],intervention_472
+quercetin prophylaxis [dietary supplement],intervention_473
+quercetin treatment [dietary supplement],intervention_474
+op-101 [drug],intervention_475
+"hydroxychloroquine , sofosbuvir, daclatasvir [drug]",intervention_476
+standard of care treatment [drug],intervention_477
+avm0703 [drug],intervention_478
+monitoring physiological data with the hexoskin smart shirt [device],intervention_479
+deep venous disease diagnostic [other],intervention_480
+supine positioning [other],intervention_481
+miniprobe alveoflex [device],intervention_482
+act-20-msc [biological],intervention_483
+act-20-cm [biological],intervention_484
+ramipril 2.5 mg oral capsule [drug],intervention_485
+mesenchymal stem cells [drug],intervention_486
+hydroxychloroquine sulfate 400 mg twice a day [drug],intervention_487
+hydroxychloroquine sulfate 600 mg twice a day [drug],intervention_488
+hydroxychloroquine sulfate 600 mg once a day [drug],intervention_489
+apilimod dimesylate capsule [drug],intervention_490
+"lenalidomide as a 5 mg capsule po daily, days 1, 3, and 5. [drug]",intervention_491
+n-acetyl cysteine [drug],intervention_492
+desidustat [drug],intervention_493
+umbilical cord derived mesenchymal stem cells [biological],intervention_494
+rehabilitation [other],intervention_495
+lopinavir/ritonavir 400 mg/100 mg [drug],intervention_496
+prophylactic lactoferrin daily [drug],intervention_497
+ozone auto-hemotherapy [biological],intervention_498
+prognostic score [diagnostic test],intervention_499
+data monitoring for 48h within the first 12 hours of admission for covid-19 [other],intervention_500
+seraph 100 [device],intervention_501
+treatment and prophylaxis [drug],intervention_502
+standard public health measures [other],intervention_503
+current care per ucla treating physicians [other],intervention_504
+data collection from lumbar puncture [other],intervention_505
+data collection from blood draw [other],intervention_506
+cns magnetic resonance imaging (mri) imaging [other],intervention_507
+microscopy of defined brain regions on autopsy specimens [other],intervention_508
+gamunex-c [biological],intervention_509
+diagnostic tests for covid-19 infection [diagnostic test],intervention_510
+"n terminal pro b type natriuretic peptide (ntprobnp), d-dimer, and serum tropinin - i [diagnostic test]",intervention_511
+ccp [biological],intervention_512
+phr160 spray [drug],intervention_513
+essential oils [drug],intervention_514
+tap water [other],intervention_515
+kerecis oral and nasal spray [device],intervention_516
+ulinastatin [drug],intervention_517
+covid-19 convalescent hyperimmune plasma [biological],intervention_518
+non-convalescent fresh frozen plasma (standard plasma) [biological],intervention_519
+extended sampling and procedures [procedure],intervention_520
+biological:covid-19 convalescent plasma [biological],intervention_521
+hb-admsc [drug],intervention_522
+hcq & az vs hcq+sir [drug],intervention_523
+hcq & az [drug],intervention_524
+rhace2 apn01 [drug],intervention_525
+physiological saline solution [drug],intervention_526
+ip-10 in cds protocol [diagnostic test],intervention_527
+sars-cov-2 specific t cells [biological],intervention_528
+go2 peep mouthpiece [device],intervention_529
+xpro1595 [drug],intervention_530
+ampion [biological],intervention_531
+at-527 [drug],intervention_532
+best standard of care [other],intervention_533
+thromboprophylaxis [drug],intervention_534
+candesartan [drug],intervention_535
+non-ras blocking antihypertensives [drug],intervention_536
+placebo for clazakizumab [drug],intervention_537
+fnc+standard of care [drug],intervention_538
+fnc dummy tablet+standard of care [drug],intervention_539
+cash transfer [other],intervention_540
+cytosorb-therapy [device],intervention_541
+methotrexate [drug],intervention_542
+canakinumab 150 mg/ml [ilaris] [drug],intervention_543
+cytosorb 300 ml device [device],intervention_544
+bat2020 [drug],intervention_545
+blood draw [diagnostic test],intervention_546
+fingertip tests for poc assays [diagnostic test],intervention_547
+collection of swabs [diagnostic test],intervention_548
+saline oral/nasal rinse [drug],intervention_549
+0.5% povidone/iodine oral/nasal rinse [drug],intervention_550
+0.12% chlorhexidine oral/nasal rinse [drug],intervention_551
+data collection and clinical testing of subjects [other],intervention_552
+n-803 [biological],intervention_553
+bactek-r [biological],intervention_554
+levilimab [drug],intervention_555
+convalesscent plasma [drug],intervention_556
+rbt-9 (90 mg) [drug],intervention_557
+0.9% sodium chloride (normal saline) [drug],intervention_558
+povidone-iodine 2% [drug],intervention_559
+povidone-iodine 0.5% [drug],intervention_560
+isotonic saline 0.9% [drug],intervention_561
+standard supportive care [other],intervention_562
+the control group will not receive hydroxychloroquine [other],intervention_563
+av-covid-19 [biological],intervention_564
+non intervention [other],intervention_565
+non-contact ecg [device],intervention_566
+allogeneic human dental pulp stem cells (bsh btc & utooth btc) [biological],intervention_567
+intravenous saline injection (placebo) [other],intervention_568
+mucodentol [drug],intervention_569
+personal protective equipment [device],intervention_570
+adsorbed covid-19 (inactivated) vaccine [biological],intervention_571
+covid 19 serology [diagnostic test],intervention_572
+covid 19 self-questionnaire [other],intervention_573
+mannitol [drug],intervention_574
+zinc sulfate [drug],intervention_575
+bactrl-spike [biological],intervention_576
+nitazoxanide tablets [drug],intervention_577
+zanubrutinib [drug],intervention_578
+supportive care [drug],intervention_579
+mesenchymal stromal cells infusion [biological],intervention_580
+telmisartan 40mg [drug],intervention_581
+clazakizumab 25 mg [drug],intervention_582
+clazakizumab 12.5 mg [drug],intervention_583
+wj-mscs [biological],intervention_584
+"resp301, a nitric oxide generating solution [drug]",intervention_585
+cenicriviroc [drug],intervention_586
+icatibant [drug],intervention_587
+razuprotafib [drug],intervention_588
+apremilast [drug],intervention_589
+favipiravir + standard of care [drug],intervention_590
+standard therapy protocol (stp) [drug],intervention_591
+stp + standard plasma (sp) [other],intervention_592
+stp + covid-19 convalescent plasma (cp) [other],intervention_593
+covid-19 convalescent plasma (ccp) [biological],intervention_594
+tetrandrine [drug],intervention_595
+diagnostic test for sars-cov2 for patients and health staff [diagnostic test],intervention_596
+bivalirudin injection [drug],intervention_597
+blood and derivatives. [other],intervention_598
+flow controlled ventilation (evone-ventilator) [device],intervention_599
+rt pcr [diagnostic test],intervention_600
+hypertension [other],intervention_601
+diabetes type 2 [other],intervention_602
+obesity [other],intervention_603
+antihypertensive agents [drug],intervention_604
+statins (cardiovascular agents) [drug],intervention_605
+extra blood sample [other],intervention_606
+azithromycin capsule [drug],intervention_607
+bicalutamide 150 mg oral tablet [drug],intervention_608
+vazegepant (bhv-3500) [drug],intervention_609
+dialyzable leukocyte extract [drug],intervention_610
+placebo oral [drug],intervention_611
+autologous non-hematopoietic peripheral blood stem cells (nhpbsc) [biological],intervention_612
+covid-19 standard care [drug],intervention_613
+rapa-501-allo off-the-shelf therapy of covid-19 [biological],intervention_614
+media intervention [other],intervention_615
+meditation therapy [procedure],intervention_616
+yoga [procedure],intervention_617
+favipiravir placebo [drug],intervention_618
+montelukast 10mg [drug],intervention_619
+pegylated interferon lambda [drug],intervention_620
+convalescent plasma [procedure],intervention_621
+snpp protoporphyrin plus sunlight exposure [drug],intervention_622
+sulfonatoporphyrin(tpps) plus sunlight exposure. [drug],intervention_623
+non [other],intervention_624
+plasma from covid-19 convalescent patient [drug],intervention_625
+placenta-derived mmscs; cryopreserved placenta-derived multipotent mesenchymal stromal cells [procedure],intervention_626
+antibiotics [drug],intervention_627
+anticoagulant therapy [drug],intervention_628
+‚Äì√ªxygen therapy [device],intervention_629
+covid-19 antibodies testing [diagnostic test],intervention_630
+bevacizumab [drug],intervention_631
+lanadelumab [drug],intervention_632
+nestacell¬¨√¶ [biological],intervention_633
+methylprednisolone therapy [drug],intervention_634
+"ace inhibitor, angiotensin receptor blocker [drug]",intervention_635
+hospitalized children with covid19 [other],intervention_636
+angiotensin receptor blockers [drug],intervention_637
+ivermectin + doxycycline + placebo [drug],intervention_638
+ivermectin + placebo [drug],intervention_639
+mstt1041a [drug],intervention_640
+mstt1041a-matched placebo [drug],intervention_641
+uttr1147a [drug],intervention_642
+uttr1147a-matched placebo [drug],intervention_643
+tociliuzumab [drug],intervention_644
+phsyiotherapy [other],intervention_645
+levamisole pill + budesonide+formoterol inhaler [drug],intervention_646
+lopinavir/ritonavir + hydoxychloroquine [drug],intervention_647
+lau-7b [drug],intervention_648
+camostat [drug],intervention_649
+"standard 12-lead ecg, nt-probnp, echocardiography [diagnostic test]",intervention_650
+abatacept [biological],intervention_651
+metenkefalin + tridecactide [drug],intervention_652
+the standard of care [drug],intervention_653
+aerosol-reducing mask [device],intervention_654
+standard mask [device],intervention_655
+"35 ml blood, 5 tubes lithium heparinate at each time (hospitalized patients ) [other]",intervention_656
+"35 ml blood, 5 tubes lithium heparinate at each time (cured patients) [other]",intervention_657
+"sf12, eq-5d-5l and work status standardized quantitative assessments [other]",intervention_658
+control (albumin 5%) [biological],intervention_659
+18f-≈ì¬±v≈ì‚â§6-bp [drug],intervention_660
+chloroquine phosphate tablets [drug],intervention_661
+no intervention - exposure is to covid-19 [other],intervention_662
+interferon-‚àö√º-1a [drug],intervention_663
+serology test [biological],intervention_664
+ng biotech [diagnostic test],intervention_665
+nasopharyngeal swab [biological],intervention_666
+rectal swab [biological],intervention_667
+saliva sample [biological],intervention_668
+inc424 / ruxolitinib [drug],intervention_669
+neuromuscular electrical stimulation [other],intervention_670
+physical therapy exercise [other],intervention_671
+rapid onsite covid-19 detection [device],intervention_672
+atazanavir [drug],intervention_673
+daclatasvir [drug],intervention_674
+sofusbuvir [drug],intervention_675
+placebo atazanavir [drug],intervention_676
+placebo daclatasvir [drug],intervention_677
+placebo sofusbuvir [drug],intervention_678
+placebo favipiravir [drug],intervention_679
+intermittent prone positioning instructions [behavioral],intervention_680
+usual care positioning with no instructions [behavioral],intervention_681
+no intervention planned due to the observational study design - only a diagnostic testing [diagnostic test],intervention_682
+"covid-19 test, polymerase chain reaction for sars-cov-2 [diagnostic test]",intervention_683
+drugs and supportive care [other],intervention_684
+defibrotide injection [drug],intervention_685
+pulmozyme/ recombinant human deoxyribonuclease (rh-dnase) [drug],intervention_686
+0.9%sodium chloride [drug],intervention_687
+vitalconnect vital sign patch [diagnostic test],intervention_688
+routine standard of care [other],intervention_689
+bnt162b3 [biological],intervention_690
+cognitive and behavioral intervention. [behavioral],intervention_691
+problem-solving and relationship improvement intervention. [behavioral],intervention_692
+"covid-19 igg/igm rapid test cassette test (healgen scientific, houston, texas, usa) [diagnostic test]",intervention_693
+antioxidation therapy [dietary supplement],intervention_694
+covid-19 patients [other],intervention_695
+fingolimod 0.5 mg [drug],intervention_696
+diagnostic test covid-19 [diagnostic test],intervention_697
+mas825 [drug],intervention_698
+adam sensor [device],intervention_699
+blood d-dimer assay [other],intervention_700
+nasopharyngeal covid 19 rt-pcr [diagnostic test],intervention_701
+angiotensin-converting enzyme inhibitors (ace-i) and angiotensin ii receptor blockers (arb) [drug],intervention_702
+low dose of kbp-covid-19 [biological],intervention_703
+high dose of kbp-covid-19 [biological],intervention_704
+low dosage inactivated sars-cov-2 vaccine on a 0- and 14-day schedule [biological],intervention_705
+medium dosage inactivated sars-cov-2 vaccine on a 0- and 14-day schedule [biological],intervention_706
+high dosage inactivated sars-cov-2 vaccine on a 0- and 14-day schedule [biological],intervention_707
+placebo on a 0- and 14-day schedule [biological],intervention_708
+gam-covid-vac [biological],intervention_709
+"two doses of low dosage inactivated sars-cov-2 vaccine at the schedule of day 0,28 [biological]",intervention_710
+"two doses of medium dosage inactivated sars-cov-2 vaccine at the schedule of day 0,28 [biological]",intervention_711
+"two doses of high dosage inactivated sars-cov-2 vaccine at the schedule of day 0,28 [biological]",intervention_712
+"two doses of placebo at the schedule of day 0,28 [other]",intervention_713
+virtual care at home [other],intervention_714
+two doses of medium dosage inactivated sars-cov-2 vaccine at the emergency vaccination schedule [biological],intervention_715
+two doses of high dosage inactivated sars-cov-2 vaccine at the emergency vaccination schedule [biological],intervention_716
+two doses of placebo at the emergency vaccination schedule [biological],intervention_717
+two doses of medium dosage inactivated sars-cov-2 vaccine at the routine vaccination schedule [biological],intervention_718
+two doses of high dosage inactivated sars-cov-2 vaccine at the routine vaccination schedule [biological],intervention_719
+two doses of placebo at the routine vaccination schedule [biological],intervention_720
+tranexamic acid tablets [drug],intervention_721
+general public cohort [other],intervention_722
+volatile organic compounds analysis [device],intervention_723
+ensoetm device [device],intervention_724
+moxibustion plus cupping [other],intervention_725
+enzalutamide pill [drug],intervention_726
+indomethacin [drug],intervention_727
+zithromax oral product [drug],intervention_728
+cytokines dosage [diagnostic test],intervention_729
+complement dosage [diagnostic test],intervention_730
+lung function tests [diagnostic test],intervention_731
+exercise capacity [diagnostic test],intervention_732
+exercise physiology [diagnostic test],intervention_733
+health-related quality of life [diagnostic test],intervention_734
+"respiratory symptoms, symptoms of anxiety and depression, and post-traumatic stress screening [diagnostic test]",intervention_735
+collection of biological samples [procedure],intervention_736
+symptom and exposure surveys [procedure],intervention_737
+nitazoxanide and atazanavir/ritonavir [drug],intervention_738
+sars-cov-2 rs [biological],intervention_739
+matrix-m adjuvant [other],intervention_740
+nss saline placebo [other],intervention_741
+chlorine dioxide 3000 ppm [drug],intervention_742
+probiorinse [other],intervention_743
+standard therapy of covid-19 [drug],intervention_744
+the usual treatment [drug],intervention_745
+caption ai [device],intervention_746
+fisetin [drug],intervention_747
+dapagliflozin [drug],intervention_748
+ambrisentan [drug],intervention_749
+conjunctival swab and nasopharyngeal swab [diagnostic test],intervention_750
+"none, this study is observational [other]",intervention_751
+transfusion of covid-19 convalescent plasma [drug],intervention_752
+plasma therapy using convalescent plasma with antibody against sars-cov-2 [other],intervention_753
+anakinra 149 mg/ml prefilled syringe [kineret] [drug],intervention_754
+azithromycin with amoxicillin/clavulanate [combination product],intervention_755
+amoxicillin/clavulanate [drug],intervention_756
+covid-19 experience surveys [other],intervention_757
+predictive factors for clinical response in patients with covid-19. [other],intervention_758
+retrospective case-control analysis [drug],intervention_759
+iloprost [drug],intervention_760
+isotonic saline [drug],intervention_761
+wearable medical device (empatica e4) [device],intervention_762
+progesterone 100 mg [drug],intervention_763
+seraph¬¨√¶-100 microbind¬¨√¶ affinity blood filter [device],intervention_764
+biomedomics covid-19 igm-igg rapid test [other],intervention_765
+venipuncture in peripheral vein [other],intervention_766
+standard of care therapy [drug],intervention_767
+endoscopic intervention [procedure],intervention_768
+"taking blood samples (capillary and venous), saliva sampling and nasopharyngeal sampling. [device]",intervention_769
+capillary and salivary sampling [device],intervention_770
+standard oxygen therapy [procedure],intervention_771
+10% povidone-iodine nasal decolonization swab plus 0.12% chg oral rinse [drug],intervention_772
+v-sars [biological],intervention_773
+previfenon¬¨√¶ [drug],intervention_774
+biological sample collection [procedure],intervention_775
+data collection:clinical care assessments [procedure],intervention_776
+galidesivir [drug],intervention_777
+psc-04 [biological],intervention_778
+atyr1923 1 mg/kg [drug],intervention_779
+atyr1923 3 mg/kg [drug],intervention_780
+silymarin [drug],intervention_781
+standard of care treatment [other],intervention_782
+whole exome sequencing [diagnostic test],intervention_783
+piclidenoson [drug],intervention_784
+oral co-trimoxazole [drug],intervention_785
+gam-covid-vac lyo [biological],intervention_786
+azithromycin (azithro) [drug],intervention_787
+placebo for hydroxychloroquine [drug],intervention_788
+placebo for azithromycin [drug],intervention_789
+lenzilumab [biological],intervention_790
+vitamin c [other],intervention_791
+control [dietary supplement],intervention_792
+levamisole [drug],intervention_793
+isoprinosine [drug],intervention_794
+povidone-iodine nasal spray and gargle [drug],intervention_795
+convalescent plasma application to sars-cov-2 infected patients [other],intervention_796
+tj003234 [drug],intervention_797
+certified cloth face mask plus preventive information [other],intervention_798
+preventive information [behavioral],intervention_799
+bemiparin [drug],intervention_800
+favipiravir (3200 mg + 1200 mg) [drug],intervention_801
+favipiravir (3600 mg + 1600 mg) [drug],intervention_802
+favipiravir (3200 mg + 1200 mg) combined with hydroxychloroquine [drug],intervention_803
+favipiravir (3200 mg + 1200 mg) combined with azithromycin [drug],intervention_804
+hydroxychloroquine combined with azithromycin [drug],intervention_805
+brazilian green propolis extract (epp-af) [drug],intervention_806
+investigation of smell and taste disorders [other],intervention_807
+hydroxychloroquine sulfate + azithromycin [combination product],intervention_808
+intradermal injection of bcg vaccine [biological],intervention_809
+vaccine bcg [biological],intervention_810
+"masimo, lidco [device]",intervention_811
+1:ilt101 [drug],intervention_812
+2:placebo comparator [drug],intervention_813
+activity [other],intervention_814
+chest computed tomography (ct) [diagnostic test],intervention_815
+reverse-transcription polymerase chain reaction (rt-pcr) [diagnostic test],intervention_816
+anti sars-cov 2 convalescent plasma in severe covid-19 patients [biological],intervention_817
+anti sars-cov 2 convalescent plasma in critical covid-19 patients [biological],intervention_818
+hcq+azt [drug],intervention_819
+enzalutamide [drug],intervention_820
+tocilizumab 20 mg/ml intravenous solution [actemra] [drug],intervention_821
+personal protective equipment from biological hazard [other],intervention_822
+tuberculin test [diagnostic test],intervention_823
+ly3127804 [drug],intervention_824
+nan [other],intervention_825
+relation between frailty and clinical outcomes in elderly patients with covid-19. [other],intervention_826
+hidroxicloroquine [drug],intervention_827
+imatinib tablets [drug],intervention_828
+standardized crisis management and coping protocol plan toward coronavirus disease 2019 (covid-19) [other],intervention_829
+non-invasive ventilatory support [device],intervention_830
+hydroxychloroquine and azithromycin treatment [drug],intervention_831
+conventional management of patients [other],intervention_832
+cd24fc [drug],intervention_833
+performing of lung ultrasound [device],intervention_834
+remote controlled exercise [other],intervention_835
+home exercise [other],intervention_836
+breath test [diagnostic test],intervention_837
+rhdnase i [drug],intervention_838
+web-based redcap survey [other],intervention_839
+oral [drug],intervention_840
+exposure to the sars-cov-2 [other],intervention_841
+prospective chart review [other],intervention_842
+prone decubitus [other],intervention_843
+transparent sheet [device],intervention_844
+azinc [dietary supplement],intervention_845
+bm-mscs [biological],intervention_846
+questionnaires for specific phobia [other],intervention_847
+anti-covid-19 human immunoglobulin [biological],intervention_848
+standard (specific) therapy for covid-19 [drug],intervention_849
+igg antibodies immunoassay [diagnostic test],intervention_850
+remestemcel-l [drug],intervention_851
+oral 25-hydroxyvitamin d3 [drug],intervention_852
+bacille calmette-gu‚àö¬©rin (bcg) [biological],intervention_853
+placebo comparator [other],intervention_854
+"pro bnp , vitamin d [other]",intervention_855
+sars-cov-2 convalescent plasma treatment [biological],intervention_856
+carrimycin [drug],intervention_857
+lopinavir/ritonavir tablets or arbidol or chloroquine phosphate [drug],intervention_858
+basic treatment [drug],intervention_859
+standar of care [other],intervention_860
+imatinib mesylate [drug],intervention_861
+saline containing 1% human serum albumin√¥¬∫√†solution without uc-mscs√¥¬∫√¢ [biological],intervention_862
+reverse transcription polymerase chain reaction [diagnostic test],intervention_863
+discontinuation of acei/arb [other],intervention_864
+continuation of acei/arb [other],intervention_865
+"cerebrospinal fluid sampling, meningeal and brain parenchyma biopsies [drug]",intervention_866
+tigerase¬¨√¶ and best available care [biological],intervention_867
+best available care [other],intervention_868
+thromboprophylaxis with low-molecular-weight heparin or fondaparinux [drug],intervention_869
+covid-19+ observational [other],intervention_870
+dexamethasone and hydroxychloroquine [drug],intervention_871
+emtricitabine/tenofovir alafenamide 200 mg-25 mg oral tablet [drug],intervention_872
+standard of care (soc) + ang-3777 [drug],intervention_873
+standard of care (soc) + placebo [drug],intervention_874
+serological test [other],intervention_875
+rapid molecular test [other],intervention_876
+next generation sequencing (ngs) analysis [genetic],intervention_877
+serum chemistry analysis [other],intervention_878
+sodium bicarbonate [drug],intervention_879
+q16 testing [diagnostic test],intervention_880
+nasopharyngeal swab and main laboratory [diagnostic test],intervention_881
+antibody test (sars-cov2) [diagnostic test],intervention_882
+hydroxychloroquine and azithromycin treatment arm. [drug],intervention_883
+control arm [drug],intervention_884
+online survey about dietary and lifestyle habits [other],intervention_885
+decidual stromal cells (dsc) [biological],intervention_886
+diphenhydramine [drug],intervention_887
+control message [other],intervention_888
+baseline message [other],intervention_889
+personal freedom message [other],intervention_890
+economic freedom message [other],intervention_891
+self-interest message [other],intervention_892
+community interest message [other],intervention_893
+economic benefit message [other],intervention_894
+guilt message [other],intervention_895
+embarrassment message [other],intervention_896
+anger message [other],intervention_897
+trust in science message [other],intervention_898
+not bravery message [other],intervention_899
+elmo project at covid-19:study in humans [other],intervention_900
+elmo project at covid-19:proof of concept and usability [device],intervention_901
+pathogen reduced sars-cov-2 convalescent plasma [biological],intervention_902
+drug isotretinoin (13 cis retinoic acid ) capsules+standard treatment [drug],intervention_903
+isotretinoin(aerosolized 13 cis retinoic acid) +standard treatment [drug],intervention_904
+telerehabilitation [device],intervention_905
+home pulse oximetry monitoring [device],intervention_906
+extracorporeal blood purification using the oxiris¬¨√¶ (an69st) hemofilter [device],intervention_907
+active pbmt/smf [device],intervention_908
+placebo pbmt/smf [device],intervention_909
+covid-19 and intensive care [other],intervention_910
+nebulized platelet lysate [biological],intervention_911
+nebulized sterile saline [other],intervention_912
+spartan covid-19 system [device],intervention_913
+l-citrulline [dietary supplement],intervention_914
+zinc citrate [dietary supplement],intervention_915
+vitamin b12 [dietary supplement],intervention_916
+angiotensin converting enzyme inhibitor [drug],intervention_917
+hyperbaric oxygen treatment (hbot) i.e. inhalation of pressurized oxygen delivered by a hyperbaric chamber (drug/device) [combination product],intervention_918
+melphalan [drug],intervention_919
+control group [device],intervention_920
+sledd with a l-mod [device],intervention_921
+anakinra prefilled syringe [drug],intervention_922
+tocilizumab prefilled syringe [drug],intervention_923
+standard-of-care treatment [drug],intervention_924
+radiotherapy [radiation],intervention_925
+model building [other],intervention_926
+model validation [other],intervention_927
+mrna in urine test [diagnostic test],intervention_928
+multiple doses of anti-sars-cov-2 convalescent plasma [biological],intervention_929
+gargle/mouthwash [drug],intervention_930
+sulodexide [drug],intervention_931
+helmet non-invasive ventilation [device],intervention_932
+covid-19 pcr and serology testing [other],intervention_933
+netosis markers [diagnostic test],intervention_934
+performance evaluation study of realdetect rt-pcr kit for covid-19 detection [device],intervention_935
+methylprednisolone 80 mg/ml injectable suspension [drug],intervention_936
+covid-19 swab [diagnostic test],intervention_937
+chest physiotherapy using a non-invasive oscillating device [procedure],intervention_938
+normobaric oxygen therapy [device],intervention_939
+sarilumab prefilled syringe [drug],intervention_940
+pembrolizumab (mk-3475) [biological],intervention_941
+inhaled supplemental oxygen [other],intervention_942
+emergency laparotomy [procedure],intervention_943
+conventional oxygen [procedure],intervention_944
+cpap [procedure],intervention_945
+hfno [procedure],intervention_946
+mechanical ventilation [procedure],intervention_947
+lopinavir-ritonavir drug combination [drug],intervention_948
+covid-19 diagnostic pcr [diagnostic test],intervention_949
+thorax ct [diagnostic test],intervention_950
+ayurvedic kadha [dietary supplement],intervention_951
+saline nasal irrigation [other],intervention_952
+saline with baby shampoo nasal irrigation [other],intervention_953
+igg [diagnostic test],intervention_954
+ic14 [biological],intervention_955
+bromhexine oral tablet and/or hydroxychloroquine tablet [drug],intervention_956
+octagam 10% [biological],intervention_957
+emergency surgery [procedure],intervention_958
+dociparastat sodium [drug],intervention_959
+electric pad for human external pain therapy [device],intervention_960
+peripheral blood [other],intervention_961
+molecular testing for virus rna using rt-pcr [diagnostic test],intervention_962
+face mask sampling [diagnostic test],intervention_963
+patients covid 19 [other],intervention_964
+dornase alfa [drug],intervention_965
+leukapheresis [other],intervention_966
+pegylated interferon-≈ì¬±2b [drug],intervention_967
+atovaquone/azithromycin [drug],intervention_968
+imaging by thoracic scanner [diagnostic test],intervention_969
+serology test [diagnostic test],intervention_970
+standard therapy for covid-19 according to the stablished hospital protocols. [drug],intervention_971
+biological sampling [biological],intervention_972
+ecmo implantation [procedure],intervention_973
+biovitals [device],intervention_974
+control swab [device],intervention_975
+prototype swab [device],intervention_976
+current ipac-uhn ppe [device],intervention_977
+modified ipac-uhn ppe [device],intervention_978
+"virtual assistant first, then human coach [other]",intervention_979
+"human coach first, then virtual assistant [other]",intervention_980
+no interventions planned [other],intervention_981
+nudge [behavioral],intervention_982
+presence of specific anti-sars-cov-2 antibodies [diagnostic test],intervention_983
+lucinactant [drug],intervention_984
+azithromycin 500mg oral tablet [drug],intervention_985
+glucose tablets [dietary supplement],intervention_986
+admission to icu for covid-19 [other],intervention_987
+only standard treatment [drug],intervention_988
+tocilizumab 20 mg/ml intravenous solution [actemra]_#1 [drug],intervention_989
+tocilizumab 20 mg/ml intravenous solution [actemra]_#1 (2 doses) [drug],intervention_990
+telehealth [other],intervention_991
+covid-19 barrier box [device],intervention_992
+euroimmun assay [diagnostic test],intervention_993
+convalescent plasma [other],intervention_994
+turkish physicians [behavioral],intervention_995
+poractant alfa [drug],intervention_996
+degarelix [drug],intervention_997
+nafamostat mesylate [drug],intervention_998
+icosapent ethyl [drug],intervention_999
+quercetin [drug],intervention_1000
+bromelain [dietary supplement],intervention_1001
+sti-1499 [biological],intervention_1002
+tacrolimus [drug],intervention_1003
+point-of-care test for sars-cov-2 [diagnostic test],intervention_1004
+serum inflammatory biomarkers [diagnostic test],intervention_1005
+folic acid [drug],intervention_1006
+liposomal lactoferrin [drug],intervention_1007
+covid-19 convalscent plasma [drug],intervention_1008
+abivertinib [drug],intervention_1009
+intermediate dose enoxaparin/ unfractionated heparin [drug],intervention_1010
+standard prophylactic dose enoxaparin/ unfractionated heparin [drug],intervention_1011
+atorvastatin 20mg [drug],intervention_1012
+infusion iv of mesenchymal stem cells [biological],intervention_1013
+"mcn (methylene blue, vitamin c, n-acetyl cysteine) [drug]",intervention_1014
+50 mg/ml virazole [drug],intervention_1015
+100 mg/ml virazole [drug],intervention_1016
+cardiopulmonary resuscitation [other],intervention_1017
+modified rankin score [other],intervention_1018
+lopinavir/ritonavir 200 mg-50 mg oral tablet [drug],intervention_1019
+telmisartan 40mg oral tablet [drug],intervention_1020
+atorvastatin 20 mg oral tablet [drug],intervention_1021
+coronacidetm covid-19 igm/igg rapid test and premier biotech covid-19 igm/igg rapid test [diagnostic test],intervention_1022
+sbi-101 [biological],intervention_1023
+sham [device],intervention_1024
+ct-scan [other],intervention_1025
+danoprevir+ritonavir [drug],intervention_1026
+nangibotide [drug],intervention_1027
+mindrhythm harmony [device],intervention_1028
+ganovo+ritonavir+/-interferon nebulization [drug],intervention_1029
+sars-cov-2 antibody testing [diagnostic test],intervention_1030
+throat swab [procedure],intervention_1031
+stress and anxiety questionnaire [other],intervention_1032
+soc plus 15mg/kg eb05 iv [biological],intervention_1033
+soc plus placebo iv [other],intervention_1034
+let it out (lio)-c [other],intervention_1035
+neutral writing control [other],intervention_1036
+scta01 [biological],intervention_1037
+serologic sars-cov-2 screening [diagnostic test],intervention_1038
+physical exercise [other],intervention_1039
+education sessions [behavioral],intervention_1040
+ati-450 [drug],intervention_1041
+emergency ventilator splitter [device],intervention_1042
+isoflurane inhalant product [drug],intervention_1043
+sevoflurane inhalant product [drug],intervention_1044
+"questionnaire, phone call [other]",intervention_1045
+anakinra alone (stages 2b/3) [drug],intervention_1046
+anakinra and ruxolitinib (overcome stage 3) [drug],intervention_1047
+rapid salivary test [diagnostic test],intervention_1048
+inhalable hydroxychloroquine (hcq) [drug],intervention_1049
+supportive and symptomatic treatment [drug],intervention_1050
+convalescent sars covid-19 plasma [other],intervention_1051
+imu-838 [drug],intervention_1052
+ramelteon 8mg [drug],intervention_1053
+serology test follow-up [other],intervention_1054
+mesenchymal cells [biological],intervention_1055
+sirolimus 1 mg/ml [drug],intervention_1056
+biospecimen collection [other],intervention_1057
+fluvoxamine [drug],intervention_1058
+tinzaparin or unfractionated heparin [drug],intervention_1059
+obvio-19 app [other],intervention_1060
+antibody-rich plasma from covid-19 recovered patients [other],intervention_1061
+biospecimen collection [procedure],intervention_1062
+convalescent covid 19 plasma [biological],intervention_1063
+covid-19 breastfeeding support [behavioral],intervention_1064
+photobiomodulation and photodynamic therapy [procedure],intervention_1065
+suspension or maintenance of angiotensin receptor blockers and angiotensin-converting enzyme inhibitors [other],intervention_1066
+dfv890 [drug],intervention_1067
+standard of care (soc) [drug],intervention_1068
+"hypoxia:14.3 and 12.7% fio2, hypercapnia 7% co2, inspiratory mechanical constraint [other]",intervention_1069
+patients with the treatment agains covid19 [drug],intervention_1070
+disulfiram [drug],intervention_1071
+azithromycin 250 mg [drug],intervention_1072
+momentasone furatenasal spray [drug],intervention_1073
+nigella sativa [dietary supplement],intervention_1074
+biological assays in particular on the lipid metabolism [biological],intervention_1075
+airway management during sedation or general anesthesia [procedure],intervention_1076
+mechanical trombectomy [other],intervention_1077
+immunological profiling [other],intervention_1078
+auditory evoked potentials (aep) [procedure],intervention_1079
+blink and masseter inhibitory reflex [procedure],intervention_1080
+local standard of care [other],intervention_1081
+ayurveda [other],intervention_1082
+device used to record voice for screening [device],intervention_1083
+serological analyses to be lead on a pre-existing biobank [other],intervention_1084
+self-management booklet (switch:stay well during covid-19) [behavioral],intervention_1085
+continuous positive airway pressure [device],intervention_1086
+ace inhibitors and calcium channel blockers [drug],intervention_1087
+mhealth assessments [other],intervention_1088
+inhaled type i interferon [drug],intervention_1089
+wfi water nebulization [drug],intervention_1090
+self-administered structured questionnaire [behavioral],intervention_1091
+hydroxychloroquine (placebo) [drug],intervention_1092
+zinc (placebo) [drug],intervention_1093
+bio101 [drug],intervention_1094
+therapeutic plasma exchange (tpe) [procedure],intervention_1095
+natural honey [dietary supplement],intervention_1096
+surgery [procedure],intervention_1097
+echocardiography [other],intervention_1098
+bovine lipid extract surfactant [drug],intervention_1099
+inhaled nitric oxide (ino) [drug],intervention_1100
+nitrogen gas [drug],intervention_1101
+oxygen gas [drug],intervention_1102
+premier biotech covid-19 igg/igm rapid test cassette [device],intervention_1103
+maslach burnout inventory (mbi) [behavioral],intervention_1104
+optical coherence tomography (oct) [diagnostic test],intervention_1105
+fluoxetine [drug],intervention_1106
+rtb101 [drug],intervention_1107
+hyperbaric oxygen [combination product],intervention_1108
+additional blood tubes [other],intervention_1109
+control group [other],intervention_1110
+sildenafil [drug],intervention_1111
+covid-19 swab pcr test [diagnostic test],intervention_1112
+daily vitamin d3 [drug],intervention_1113
+daily placebo [drug],intervention_1114
+bolus vitamin d3 [drug],intervention_1115
+bolus placebo [drug],intervention_1116
+"nursing care to reduce anxiety, fear and loneliness [other]",intervention_1117
+predictors adverse evolution [other],intervention_1118
+predictors of health care provide [other],intervention_1119
+unikinon (chloroquine phosphate) 200mg tablets [drug],intervention_1120
+azithromycin 250 mg oral capsule [drug],intervention_1121
+butterfly [diagnostic test],intervention_1122
+defibrotide 25 mg/kg 24 hours continuous infusion for 15 days [drug],intervention_1123
+placebo 250 cc 24 hours continuous infusion for 15 days [drug],intervention_1124
+standard covid-19 therapies [drug],intervention_1125
+observational (registry) [combination product],intervention_1126
+enoxaparin prophylactic dose [drug],intervention_1127
+heparin infusion [drug],intervention_1128
+heparin sc [drug],intervention_1129
+enoxaparin/lovenox intermediate dose [drug],intervention_1130
+intermediate dose thromboprophylaxis [drug],intervention_1131
+standard of care thromboprophylaxis [drug],intervention_1132
+ravulizumab [biological],intervention_1133
+post covid-19 functional satus scale [other],intervention_1134
+supportive care [other],intervention_1135
+random donor plasma [drug],intervention_1136
+gas exchanges at different peep [other],intervention_1137
+lung mechanics at different peep [other],intervention_1138
+hemodynamics changes at different peep [other],intervention_1139
+no intervention / evaluation of the ferritin and glycosylated ferritin by standard approved serological tests [other],intervention_1140
+psychiatric counseling [behavioral],intervention_1141
+"the demographic, clinical, laboratory, and instrumental data [diagnostic test]",intervention_1142
+xc221 [drug],intervention_1143
+octagam [drug],intervention_1144
+clarithromycin [drug],intervention_1145
+quantitative analysis of anti-sars-cov-2-antibodies [diagnostic test],intervention_1146
+dipyridamole [drug],intervention_1147
+hospital admission [other],intervention_1148
+non-hospitalization procedures [other],intervention_1149
+infectious disease and cardiology clinical consultations [other],intervention_1150
+ecg-holter [other],intervention_1151
+transcutaneous auricular vagus nerve stimulation [device],intervention_1152
+pathogen-specific aapc [biological],intervention_1153
+cri management [device],intervention_1154
+t3 solution for injection [drug],intervention_1155
+realtime pcr [diagnostic test],intervention_1156
+pt-pal [behavioral],intervention_1157
+self-guided exercises [behavioral],intervention_1158
+a‚àö√üa‚àö‚â† palm berry extract - natural product [dietary supplement],intervention_1159
+arbox [dietary supplement],intervention_1160
+convalescent plasma from recovered covid 19 donor [other],intervention_1161
+hydroxychloroquine as post exposure prophylaxis [drug],intervention_1162
+others(no intervention) [other],intervention_1163
+blood test for sars-cov2 serology [diagnostic test],intervention_1164
+nivolumab injection [drug],intervention_1165
+washed microbiota transplantation [other],intervention_1166
+monitoring for aggravation [other],intervention_1167
+evaluate hacor score effectivity in this patients [other],intervention_1168
+laboratory analyses [diagnostic test],intervention_1169
+physical therapy [procedure],intervention_1170
+in-hospital mortality rate [other],intervention_1171
+blood group determination [diagnostic test],intervention_1172
+antibody titration [diagnostic test],intervention_1173
+ck0802 [biological],intervention_1174
+dipyridamole er 200mg/ aspirin 25mg orally/enterally and standard of care [drug],intervention_1175
+interferon beta 1a [drug],intervention_1176
+covid19 [other],intervention_1177
+breath test & cheek swab [diagnostic test],intervention_1178
+id now vs. accula [diagnostic test],intervention_1179
+no intervention planned due to the observational study design only a diagnostic testing [diagnostic test],intervention_1180
+iodine complex [drug],intervention_1181
+kaplan meier analysis [other],intervention_1182
+covid-19 pcr and serology [diagnostic test],intervention_1183
+[timp-2]*[igfbp-7] [other],intervention_1184
+bacmune (mv130) [biological],intervention_1185
+airway pressure release ventilation [other],intervention_1186
+manremyc [dietary supplement],intervention_1187
+guided online support program [behavioral],intervention_1188
+who recommendations (waiting condition) [behavioral],intervention_1189
+combined use of a respiratory broad panel multiplex pcr and procalcitonin [procedure],intervention_1190
+usual antibiotic treatment [other],intervention_1191
+ivermectin (ivm) [drug],intervention_1192
+complex diagnostic panel [other],intervention_1193
+tranexamic acid [drug],intervention_1194
+baricitinib 4 mg oral tablet [drug],intervention_1195
+ivermectin 3mg tab [drug],intervention_1196
+aerosolized 13 cis retinoic acid [drug],intervention_1197
+aerosolized all trans retinoic acid [drug],intervention_1198
+"no intervention, observational [other]",intervention_1199
+autopsy [procedure],intervention_1200
+oxytocin [drug],intervention_1201
+xcel-umc-beta [drug],intervention_1202
+group1 [other],intervention_1203
+indirect calorimetry [diagnostic test],intervention_1204
+human biological samples [other],intervention_1205
+vascular surgery [procedure],intervention_1206
+biological test [biological],intervention_1207
+ravulizumab [drug],intervention_1208
+sodium chloride 9mg/ml [drug],intervention_1209
+gammacore¬¨√¶ (vagus nerve stimulation) [device],intervention_1210
+autologous adipose msc's [biological],intervention_1211
+physical exercises [other],intervention_1212
+severe covid-19 pneumonia with et [other],intervention_1213
+plasma from a volunteer donor [biological],intervention_1214
+home spirometry [diagnostic test],intervention_1215
+biosensors [device],intervention_1216
+lopinavir 200mg/ritonavir 50mg tab [drug],intervention_1217
+injection and infusion of lv-smenp-dc vaccine and antigen-specific ctls [biological],intervention_1218
+acacia senegal [dietary supplement],intervention_1219
+pectin [dietary supplement],intervention_1220
+desferal 500 mg injection [drug],intervention_1221
+sampling [diagnostic test],intervention_1222
+msc [biological],intervention_1223
+biological samples specific to research [procedure],intervention_1224
+clinical examination [procedure],intervention_1225
+telephone follow-up [procedure],intervention_1226
+anakinra +/- ruxolitinib (stages 2b/3) [drug],intervention_1227
+anakinra and ruxolitinib (advanced stage 3) [drug],intervention_1228
+tocilizumab +/- ruxolitinib (stages 2b/3) [drug],intervention_1229
+tocilizumab and ruxolitinib (advanced stage 3) [drug],intervention_1230
+tocilizumab 180 mg/ml [drug],intervention_1231
+none - observational [other],intervention_1232
+test pcr [diagnostic test],intervention_1233
+tdr [genetic],intervention_1234
+clinical examination [other],intervention_1235
+standard procedure [procedure],intervention_1236
+bm-allo.msc [biological],intervention_1237
+questionnaires on psychological quality of life [other],intervention_1238
+hypothermia [device],intervention_1239
+neuromuscular blocking agents [drug],intervention_1240
+standard of care [device],intervention_1241
+psg [other],intervention_1242
+amy-101 [drug],intervention_1243
+wfi 5% glucose [other],intervention_1244
+berberine [drug],intervention_1245
+montmorrillonite [drug],intervention_1246
+vitamin d [drug],intervention_1247
+mvc-cov1901 [biological],intervention_1248
+non-invasive cardiac imaging [diagnostic test],intervention_1249
+stc-19 score [diagnostic test],intervention_1250
+25-oh cholecalciferol [dietary supplement],intervention_1251
+pyridostigmine bromide [drug],intervention_1252
+"assessing antibody responses, neutralizing capacity and memory b-cell function [diagnostic test]",intervention_1253
+prospective oberservational registry [other],intervention_1254
+throat swab sample for measuring current infection with sars-cov-2 [diagnostic test],intervention_1255
+blood sample for serology to measure past infection with sars-cov-2 [diagnostic test],intervention_1256
+hyper immunoglobulins containing anti-corona vs2 immunoglobulin [other],intervention_1257
+newborns from covid 19 positive mothers [other],intervention_1258
+"predict admission of covid-19 patients to icu and death with routine and quickly avalaible clinical, biological and radiological variables? [other]",intervention_1259
+chest x-ray [diagnostic test],intervention_1260
+thromboprofylaxis protocol [other],intervention_1261
+standard protocol [other],intervention_1262
+ivermectin 6 mg oral tablet (2 tablets) [drug],intervention_1263
+ino (inhaled nitric oxide) delivered via the inopulse delivery system [drug],intervention_1264
+serological screening for igg and igm antibodies against covid-19 [diagnostic test],intervention_1265
+covid-19 pcr [diagnostic test],intervention_1266
+sodium nitrite [drug],intervention_1267
+dexamethasone (high dose) [drug],intervention_1268
+brain mri scan [other],intervention_1269
+"hydroxychloroquine, azithromycin [drug]",intervention_1270
+"hydroxychloroquine, doxycycline [drug]",intervention_1271
+"hydroxychloroquine, clindamycin [drug]",intervention_1272
+"hydroxychloroquine, clindamycin, primaquine - low dose. [drug]",intervention_1273
+"hydroxychloroquine, clindamycin, primaquine - high dose. [drug]",intervention_1274
+interferon-alpha2b [drug],intervention_1275
+convalescent serum [drug],intervention_1276
+"imaging, blood tests [diagnostic test]",intervention_1277
+low dose radiotherapy [radiation],intervention_1278
+leaf-4l6715 [drug],intervention_1279
+leaf-4l7520 [drug],intervention_1280
+auricular neuromodulation [procedure],intervention_1281
+control [procedure],intervention_1282
+blood samples collection [biological],intervention_1283
+saliva collection [other],intervention_1284
+vv-ecmo [device],intervention_1285
+niclosamide oral tablet [drug],intervention_1286
+quetionnary [other],intervention_1287
+pcr for covid-19 [diagnostic test],intervention_1288
+serologic testing [other],intervention_1289
+icosapent ethyl (ipe) [drug],intervention_1290
+ty027 [biological],intervention_1291
+mesenchymal stem cells derived from wharton jelly of umbilical cords [biological],intervention_1292
+ivermectin tablets [drug],intervention_1293
+enoxaparin prefilled syringe [lovenox] [drug],intervention_1294
+phase 1 [radiation],intervention_1295
+phase 2 [radiation],intervention_1296
+brief psychiatric rating scale [other],intervention_1297
+"depression, anxiety and stress scale [other]",intervention_1298
+impact of event scale-revised [other],intervention_1299
+connor-davidson resilience scale 10 items (cd-risc 10) [other],intervention_1300
+lung low dose radiation [radiation],intervention_1301
+inopulse [combination product],intervention_1302
+placebo [combination product],intervention_1303
+biological sample and clinical data collection [other],intervention_1304
+hydroxychloroquine sulfate &azithromycin [drug],intervention_1305
+blood test [other],intervention_1306
+standardised questionnaires [other],intervention_1307
+"treatment group:will receive a combination of nitazoxanide, ribavirin and ivermectin for a duration of seven days: [drug]",intervention_1308
+lifesignals biosensor 1ax* [device],intervention_1309
+artemisinin / artesunate [drug],intervention_1310
+covid-19 antibody testing [diagnostic test],intervention_1311
+prophylactic/intermediate dose enoxaparin [drug],intervention_1312
+lung ultrasound [procedure],intervention_1313
+biosensor [diagnostic test],intervention_1314
+artemesia annua [dietary supplement],intervention_1315
+inhaled iloprost [drug],intervention_1316
+sarilumab [biological],intervention_1317
+covid-surgres questionaire [behavioral],intervention_1318
+vit d [drug],intervention_1319
+blood draw [procedure],intervention_1320
+clinical assessment [other],intervention_1321
+symptoms entered into the covidx application [other],intervention_1322
+sampling of tissue [diagnostic test],intervention_1323
+nitazoxanide with ivermectin [drug],intervention_1324
+ivermectin wth chloroquine [drug],intervention_1325
+igm and igg diagnostic kits to sars-cov-2 [diagnostic test],intervention_1326
+elisa-test for igm and igg to sars-cov-2 [diagnostic test],intervention_1327
+covax-19‚Äö√±¬¢ [biological],intervention_1328
+rt-pcr sars-cov2 [diagnostic test],intervention_1329
+sars-cov2 serology [diagnostic test],intervention_1330
+hydroxychloroquine sulfate (hcq) [drug],intervention_1331
+extracorporeal membrane oxygenation [device],intervention_1332
+cholecalciferol [drug],intervention_1333
+equipment with smartwatch throughout hospital stay on the general ward [other],intervention_1334
+covid 19 diagnostic test [diagnostic test],intervention_1335
+"diagnosis of sars-cov2 by rt-pcr and:igg, ig m serologies in the amniotoc fluid, the blood cord and the placenta [diagnostic test]",intervention_1336
+group a:oropharygeal spray and immunostimulant [dietary supplement],intervention_1337
+group b:placebo oropharyngeal spray + active principle immunostimulant [dietary supplement],intervention_1338
+group c:active principle oropharyngeal spray + placebo taken po [dietary supplement],intervention_1339
+group d:placebo oropharyngeal spray + placebo taken po [dietary supplement],intervention_1340
+peginterferon lambda alfa-1a subcutaneous injection [drug],intervention_1341
+standard of care (soc) and colchicine+rosuvastatin [drug],intervention_1342
+clungene rapid test cassette [diagnostic test],intervention_1343
+tele-delivered psychological intervention [behavioral],intervention_1344
+online support group [behavioral],intervention_1345
+conjunctival swab [diagnostic test],intervention_1346
+bcg vaccine (freeze-dried) [biological],intervention_1347
+standard donor plasma [biological],intervention_1348
+avdoralimab [biological],intervention_1349
+sars-cov-2 ab [diagnostic test],intervention_1350
+clinical interview [other],intervention_1351
+blood collection [biological],intervention_1352
+rapamycin [drug],intervention_1353
+conjunctival rt pcr [diagnostic test],intervention_1354
+anakinra plus osoc [drug],intervention_1355
+osoc [drug],intervention_1356
+js016 (anti-sars-cov-2 monoclonal antibody) [combination product],intervention_1357
+convalescent plasma from covid-19 donors [biological],intervention_1358
+anti-sars-cov2 serological controls and serum neutralization [diagnostic test],intervention_1359
+brii-198 [drug],intervention_1360
+brii-196 [drug],intervention_1361
+human umbilical cord mesenchymal stem cells + best supportive care [biological],intervention_1362
+na (no intervention) [other],intervention_1363
+diagnostic test [diagnostic test],intervention_1364
+lung ct scan analysis in covid-19 patients [other],intervention_1365
+pacritinib [drug],intervention_1366
+completion of pre-pandemic survey [other],intervention_1367
+completion of survey after peak of pandemic [other],intervention_1368
+completion of post telemedicine encounter survey [other],intervention_1369
+control [drug],intervention_1370
+data collection and rhinopharyngeal swab [diagnostic test],intervention_1371
+quadramune(tm) [dietary supplement],intervention_1372
+lb1148 [drug],intervention_1373
+np-120 (ifenprodil) [drug],intervention_1374
+ptc299 [drug],intervention_1375
+soc [other],intervention_1376
+alveolar recruitment [procedure],intervention_1377
+tcc-covid mhealth solution [device],intervention_1378
+umbilical cord mesenchymal stem cells + heparin along with best supportive care. [biological],intervention_1379
+vehicle + heparin along with best supportive care [other],intervention_1380
+0.9% sodium-chloride [drug],intervention_1381
+allogeneic nk transfer [biological],intervention_1382
+unfractionated heparin iv [drug],intervention_1383
+enoxaparin 1 mg/kg [drug],intervention_1384
+unfractionated heparin sc [drug],intervention_1385
+bld-2660 [drug],intervention_1386
+imm-101 [biological],intervention_1387
+serological testing [diagnostic test],intervention_1388
+hydrogen oxygen generator with nebulizer [device],intervention_1389
+standard-of-care [other],intervention_1390
+active covid-19 disease [other],intervention_1391
+igiv [drug],intervention_1392
+rt-pcr and antibody testing [diagnostic test],intervention_1393
+gx-19 [drug],intervention_1394
+saline [drug],intervention_1395
+placebo oral tablet [other],intervention_1396
+monitoring visit - baseline [diagnostic test],intervention_1397
+monitoring visit - week 4 [diagnostic test],intervention_1398
+monitoring visit - week 8 [diagnostic test],intervention_1399
+weekly assessment [other],intervention_1400
+almitrine [drug],intervention_1401
+recombinant bacterial ace2 receptors -like enzyme of b38-cap (rbace2) plus aerosolized 13 cis retinoic acid [combination product],intervention_1402
+hyperimmune plasma [biological],intervention_1403
+standard of care for sars-cov-2 infection [drug],intervention_1404
+systemic indirect endovenous ozone therapy [other],intervention_1405
+camostat mesylate [drug],intervention_1406
+"microcrystalline cellulose, nf [drug]",intervention_1407
+eculizumab [biological],intervention_1408
+azithromycin 500 milligram (mg) oral tablet [drug],intervention_1409
+no special intervention [other],intervention_1410
+"pcr, lung ultrasound [diagnostic test]",intervention_1411
+follow-up at 14 days [procedure],intervention_1412
+hyperbaric chamber [device],intervention_1413
+nasal pharyngeal (np) swab samples [diagnostic test],intervention_1414
+peripheral blood draw [diagnostic test],intervention_1415
+"electrocardiogram, transthoracic echocardiography and clinico-biological parameters in routine care [diagnostic test]",intervention_1416
+sars-cov2 infection [other],intervention_1417
+allogeneic and expanded adipose tissue-derived mesenchymal stem cells [drug],intervention_1418
+mouthrinse with b‚àö‚Ñ¢ta-cyclodextrin and citrox [device],intervention_1419
+mouthrinse without b‚àö‚Ñ¢ta-cyclodextrin and citrox [device],intervention_1420
+treatment with dexmedetomidine [drug],intervention_1421
+placebo + placebo [other],intervention_1422
+gls-1200 [drug],intervention_1423
+biopsies of subcutaneous adipose tissue [procedure],intervention_1424
+questionnair about emerging legal and ehical disputes over patient confidentiality [other],intervention_1425
+telehealth monitoring [other],intervention_1426
+favorable outcome [drug],intervention_1427
+anti-sars-cov-2 convalescent plasma [other],intervention_1428
+deltarex-g [drug],intervention_1429
+blood sampling for biobank [other],intervention_1430
+human cord tissue mesenchymal stromal cells [biological],intervention_1431
+estradiol patch [drug],intervention_1432
+mortality [other],intervention_1433
+n-95 respirator [device],intervention_1434
+cloth face mask [device],intervention_1435
+graded exercise test [diagnostic test],intervention_1436
+chloroquine analog (gns651) [drug],intervention_1437
+avdoralimab [drug],intervention_1438
+monalizumab [drug],intervention_1439
+withings scanwatch [device],intervention_1440
+questionnaire-based observational study [other],intervention_1441
+best standard of care + cardio [dietary supplement],intervention_1442
+best standard of care [dietary supplement],intervention_1443
+thiazide or thiazide-like diuretics [drug],intervention_1444
+calcium channel blockers [drug],intervention_1445
+angiotensin receptor blocker [drug],intervention_1446
+low-dose chloroquine [drug],intervention_1447
+mid-dose chloroquine [drug],intervention_1448
+high-dose chloroquine [drug],intervention_1449
+abpm [diagnostic test],intervention_1450
+fmd [diagnostic test],intervention_1451
+pwv [diagnostic test],intervention_1452
+rarefaction [diagnostic test],intervention_1453
+normal saline 0.9% [other],intervention_1454
+quantitative analysis of sars-cov-2 antibodies [diagnostic test],intervention_1455
+observational only [other],intervention_1456
+antibody test [diagnostic test],intervention_1457
+canakinumab injection 600mg [drug],intervention_1458
+canakinumab injection 300mg [drug],intervention_1459
+blood sample for serological test [diagnostic test],intervention_1460
+care modalities [other],intervention_1461
+teleconsultation either by phone or by computer consultation [other],intervention_1462
+trv027 [biological],intervention_1463
+sodium chloride 0.9% [other],intervention_1464
+recombinant human plasma gelsolin (rhu-pgsn) [drug],intervention_1465
+0.9%nacl [drug],intervention_1466
+honey [drug],intervention_1467
+sars-cov2 serum antibody testing [diagnostic test],intervention_1468
+observational cohort study on the natural history of hospitalized sars-cov-2 patients. [other],intervention_1469
+aceis [drug],intervention_1470
+conventional treatment [drug],intervention_1471
+pro-sero-cov [other],intervention_1472
+fsfi survey [behavioral],intervention_1473
+ejaculated semen sample [diagnostic test],intervention_1474
+quantra system [diagnostic test],intervention_1475
+inflammatory cytokines and chemokines profiles of patients with dexmedetomidine administration [other],intervention_1476
+carotid artery reactivity testing [diagnostic test],intervention_1477
+prasugrel hydrochloride 10 mg oral tablet [drug],intervention_1478
+"garadacimab, factor xiia antagonist monoclonal antibody [biological]",intervention_1479
+association of diltiazem and niclosamide [drug],intervention_1480
+thermography [device],intervention_1481
+tympanic temperature [device],intervention_1482
+artemic [drug],intervention_1483
+"blood tests sputum, nasal lavage and brushing [other]",intervention_1484
+mesenchymal stromal cells [genetic],intervention_1485
+study of immune-mediated mechanisms in patients tested positive for sars-cov-2 [diagnostic test],intervention_1486
+blood plasma [biological],intervention_1487
+colchicine plus symptomatic treatment (paracetamol) [drug],intervention_1488
+symptomatic treatment (paracetamol or best symptomatic treatment based on doctor recommendations) [drug],intervention_1489
+nk-1r antagonist [drug],intervention_1490
+2:usual practice + symbicort rapihaler [drug],intervention_1491
+1:usual practice [other],intervention_1492
+study a [other],intervention_1493
+study b [other],intervention_1494
+study c [other],intervention_1495
+study d [other],intervention_1496
+appendectomy [other],intervention_1497
+stimulation test with arginine infusion in order to verify the possible existence of damage to the beta cell function induced by covid-19 infection [diagnostic test],intervention_1498
+favipiravir and hydroxychloroquine [combination product],intervention_1499
+ivermectin injectable solution [drug],intervention_1500
+swallowing evaluation with the eat-10 and the volume-viscosity swallowing test (v-vst) [diagnostic test],intervention_1501
+mk-5475 [drug],intervention_1502
+bromhexine hydrochloride [drug],intervention_1503
+p2et (caesalpinia spinosa extract) [drug],intervention_1504
+intramuscular vaccine [biological],intervention_1505
+daily syndromic surveillance [other],intervention_1506
+monthly serologic igm/g test [diagnostic test],intervention_1507
+biological collection (patients co infected hiv sras-cov-2) [biological],intervention_1508
+auto-questionnaires (patients co infected hiv sras-cov-2) [other],intervention_1509
+qualitative interviews (in 40 patients:20 with covid-19 and 20 without covid-19) [other],intervention_1510
+helmet cpap [device],intervention_1511
+lung impedance technique [diagnostic test],intervention_1512
+tested for sars-cov-2 (regardless of the result) [other],intervention_1513
+clinical diagnosis of covid-19 by a health care professional [other],intervention_1514
+ivermectin pill [drug],intervention_1515
+combined art/hydroxychloroquine [drug],intervention_1516
+blood samples (collection of 5 ml of blood in a dry tube) [diagnostic test],intervention_1517
+nasopharyngeal swabs [diagnostic test],intervention_1518
+enoxaparin 40mg/0.4ml inj syringe 0.4ml [drug],intervention_1519
+covid 19 impact [other],intervention_1520
+trimethoprim/sulfamethoxazole [drug],intervention_1521
+non applicable [other],intervention_1522
+standard interface [other],intervention_1523
+double-trunk mask [device],intervention_1524
+specific anti-sars-cov-2 antibodies [biological],intervention_1525
+ctus examination [diagnostic test],intervention_1526
+postural positioning [other],intervention_1527
+bedside lung ultrasound [device],intervention_1528
+hospitalized patients for covid-19 infection [other],intervention_1529
+janus kinase inhibitor (ruxolitinib) [drug],intervention_1530
+sitagliptin [drug],intervention_1531
+bms-986253 [drug],intervention_1532
+functional mri [diagnostic test],intervention_1533
+pulmonary function tests [diagnostic test],intervention_1534
+imaging [diagnostic test],intervention_1535
+partially hla-matched virus specific t cells (vsts) [biological],intervention_1536
+allogeneic and expanded adipose tissue-derived mesenchymal stromal cells [drug],intervention_1537
+sarilumab 200 mg/1.14 ml subcutaneous solution [kevzara] [drug],intervention_1538
+sarilumab 400 mg/2.28 ml subcutaneous solution [kevzara] [drug],intervention_1539
+best available treatment [drug],intervention_1540
+cerc-002 [drug],intervention_1541
+questionnaires [diagnostic test],intervention_1542
+eeg [diagnostic test],intervention_1543
+ep [diagnostic test],intervention_1544
+pulse oximetry [diagnostic test],intervention_1545
+aviptadil by intravenous infusion + standard of care [drug],intervention_1546
+normal saline infusion + standard of care [drug],intervention_1547
+acei/arb [drug],intervention_1548
+non-acei/arb [drug],intervention_1549
+acei [drug],intervention_1550
+serological tests will be applied on patients blood sampling [diagnostic test],intervention_1551
+v/q vest [device],intervention_1552
+vitamins [dietary supplement],intervention_1553
+serial seroconversion measurements in hospital employees during the covid-19 pandemic [other],intervention_1554
+guduchi ghan vati [drug],intervention_1555
+biological:mrna-1273:50 mcg [biological],intervention_1556
+biological:mrna-1273:100 mcg [biological],intervention_1557
+"platelet count, platelet, mean platelet volume and platelet distribution width in covid-19 [diagnostic test]",intervention_1558
+igg test [diagnostic test],intervention_1559
+therapy intervention [behavioral],intervention_1560
+cell therapy protocol 1 [biological],intervention_1561
+cell therapy protocol 2 [biological],intervention_1562
+high-titer covid-19 convalescent plasma (ht-ccp) [biological],intervention_1563
+standard plasma (ffp) [biological],intervention_1564
+traditional antirheumatic drugs [drug],intervention_1565
+itolizumab iv infusion [drug],intervention_1566
+"best supportive care"" which includes antivirals /antibiotics/ hydroxychloroquine; oxygen therapy [drug]",intervention_1567
+yinhu qingwen decoction [drug],intervention_1568
+yinhu qingwen decoction(low dose) [drug],intervention_1569
+chinese medicine treatment [other],intervention_1570
+standard western medicine treatment [other],intervention_1571
+use of doctorgram patient kit [behavioral],intervention_1572
+use of doctorgram mobile application [behavioral],intervention_1573
+use of remote pulse oximeter [behavioral],intervention_1574
+retrospective data collection [other],intervention_1575
+dose of tinzaparin or dalteparin [drug],intervention_1576
+plx-pad [biological],intervention_1577
+lateral position (left and right lateral decubitus) [procedure],intervention_1578
+cytokine adsorption [device],intervention_1579
+no intervention-mechanistic study [other],intervention_1580
+standard of care. [procedure],intervention_1581
+pulmonary and motor rehabilitation [other],intervention_1582
+patients admitted to intensive care unit with sars-cov2 [other],intervention_1583
+human milk donors [other],intervention_1584
+nicotinamide riboside [dietary supplement],intervention_1585
+"questionnaires, spirometry [other]",intervention_1586
+sars-cov-2 plasma [drug],intervention_1587
+maraviroc [drug],intervention_1588
+diagnostic [diagnostic test],intervention_1589
+non applicable [biological],intervention_1590
+observation [behavioral],intervention_1591
+ultrasound lung imaging as part of fast+ evaluation [diagnostic test],intervention_1592
+dexcom g6 [device],intervention_1593
+serological test [diagnostic test],intervention_1594
+oropharyngeal swab [diagnostic test],intervention_1595
+dipyridamole 100 milligram(mg) [drug],intervention_1596
+naltrexone [drug],intervention_1597
+ketamine [drug],intervention_1598
+pt-pcr test for sars-cov-2 [diagnostic test],intervention_1599
+vaginal fluid covid-19 pcr test [diagnostic test],intervention_1600
+measles-mumps-rubella vaccine [drug],intervention_1601
+point-of-care ultrasonography (pocus) [diagnostic test],intervention_1602
+it is a survey [other],intervention_1603
+nhanes smell and taste tests [other],intervention_1604
+other drugs [drug],intervention_1605
+imaging of the lungs [diagnostic test],intervention_1606
+pentoxifylline [drug],intervention_1607
+eicosapentaenoic acid gastro-resistant capsules [drug],intervention_1608
+sofosbuvir [drug],intervention_1609
+lung ultrasound (lus) [procedure],intervention_1610
+bromhexine hydrochloride tablets [drug],intervention_1611
+arbidol hydrochloride granules [drug],intervention_1612
+recombinant human interferon ≈ì¬±2b spray [drug],intervention_1613
+questionnaire and interview [other],intervention_1614
+generalized anxiety disorder-7 (gad-7) [behavioral],intervention_1615
+patient health questionnaire-9 (phq-9) [behavioral],intervention_1616
+immunfluorescence [diagnostic test],intervention_1617
+organicell flow [biological],intervention_1618
+hydroxychloroquine pre-exposure prophylaxis [drug],intervention_1619
+consultation [other],intervention_1620
+observational study only [other],intervention_1621
+bcg [biological],intervention_1622
+elective cancer surgery [procedure],intervention_1623
+ruti¬¨√¶ vaccine [biological],intervention_1624
+evaluation of the epidemiological characteristics of coronavirus infection (sars-cov-2) [other],intervention_1625
+tem-tpa [diagnostic test],intervention_1626
+tele-interventions related to diabetes management and mental well-being [behavioral],intervention_1627
+serological assay or igg for sars-cov-2 [diagnostic test],intervention_1628
+spartan cube point-of care covid-19 test [diagnostic test],intervention_1629
+study arm [procedure],intervention_1630
+biological samples day of delivery [diagnostic test],intervention_1631
+castem [biological],intervention_1632
+use of virus (covid-19) genome sequence report to inform infection prevention control procedures [other],intervention_1633
+valsartan (diovan) [drug],intervention_1634
+omnibiotic aad [dietary supplement],intervention_1635
+patient management suffering of coronavirus infection [other],intervention_1636
+yinhu qingwen granula [drug],intervention_1637
+yin hu qing wen granula(low does) [drug],intervention_1638
+standard medical treatment [other],intervention_1639
+propofol [drug],intervention_1640
+psychoeducational intervention [other],intervention_1641
+e-psychotherapy [behavioral],intervention_1642
+thoracic lung ultrasound [other],intervention_1643
+low dose radiation 35 cgy [radiation],intervention_1644
+high dose radiation 100 cgy [radiation],intervention_1645
+mindfulness session(s) [behavioral],intervention_1646
+samling of oropharynx and nasopharynx [other],intervention_1647
+emapalumab [biological],intervention_1648
+anakinra [biological],intervention_1649
+observational [drug],intervention_1650
+additional biological samples [other],intervention_1651
+drug:isotretinoin plus tamoxifen [drug],intervention_1652
+aerosolized isotretinoin plus tamoxifen [drug],intervention_1653
+discontinuation of arb/acei [other],intervention_1654
+continuation of arb/acei [other],intervention_1655
+anluohuaxian [drug],intervention_1656
+new qiastat-dx fully automatic multiple pcr detection platform [diagnostic test],intervention_1657
+favipiravir combined with tocilizumab [drug],intervention_1658
+dental pulp mesenchymal stem cells [biological],intervention_1659
+lopinavir / ritonavir tablets combined with xiyanping injection [drug],intervention_1660
+lopinavir/ritonavir treatment [drug],intervention_1661
+nasal swab [other],intervention_1662
+taste and olfactory function evaluation [other],intervention_1663
+facial fractures reduction or osteosynthesis [procedure],intervention_1664
+test for sars-cov-2 [diagnostic test],intervention_1665
+human amniotic fluid [biological],intervention_1666
+personalized health education [behavioral],intervention_1667
+general health education [behavioral],intervention_1668
+bbv152a [biological],intervention_1669
+bbv152b [biological],intervention_1670
+bbv152c [biological],intervention_1671
+150 ppm nitric oxide delivered through lungfit delivery system [combination product],intervention_1672
+80 ppm nitric oxide delivered through lungfit delivery system [combination product],intervention_1673
+captopril 25mg [drug],intervention_1674
+endoscopic management according to standard of care [other],intervention_1675
+pss (perceived stress scale) [other],intervention_1676
+gad-7 (7-item generalized anxiety disorder) [other],intervention_1677
+phq-9 (9-item patient health questionnaire) [other],intervention_1678
+speq (specific psychotic experiences questionnaire) - paranoia and grandiosity subscales [other],intervention_1679
+zaritt burden interview [other],intervention_1680
+phq-9 depression scale [other],intervention_1681
+gad-7 general anxiety disorder scale [other],intervention_1682
+38-questions questionnaire [other],intervention_1683
+cardiac surgery [other],intervention_1684
+drug:na-831 [drug],intervention_1685
+na-831 and atazanavir [combination product],intervention_1686
+na-831and dexamethasone [combination product],intervention_1687
+atazanavir and dexamethasone [combination product],intervention_1688
+diagnostic examination for venous thromboembolism [diagnostic test],intervention_1689
+an auto-questionnaire comprising three psychometric scales [other],intervention_1690
+telephonic medical visit [behavioral],intervention_1691
+gastrointestinal endoscopy [procedure],intervention_1692
+abdominal ultrasound [procedure],intervention_1693
+schirmer test i [diagnostic test],intervention_1694
+covid-19 positive pregnant women [behavioral],intervention_1695
+"biomarker (tropt, myoglobin, ck, ck-mb, ldh, d-dimer, crp, pct) [diagnostic test]",intervention_1696
+quality of life [other],intervention_1697
+impact event score [other],intervention_1698
+hospital anxiety and depression scale [other],intervention_1699
+hyperbaric oxygen [drug],intervention_1700
+covid-19 exposure [biological],intervention_1701
+com-covid anonimous survey [behavioral],intervention_1702
+low or upper respiratory tract sample [biological],intervention_1703
+stool collection or fecal swab [biological],intervention_1704
+blood sample for whole genome sequencing [genetic],intervention_1705
+"cartography of air contamination, environment contamination and biological fluid by sars-cov2 during visceral surgery in covid19 patients. [other]",intervention_1706
+invasive mechanical ventilation [other],intervention_1707
+darunavir/cobicistat [drug],intervention_1708
+ivermectin + doxycycline [drug],intervention_1709
+respiratory rehabilitation [combination product],intervention_1710
+maintenance or reduction of immunosuppression [other],intervention_1711
+"ic14, a monoclonal antibody against cd14 [biological]",intervention_1712
+dutasteride [drug],intervention_1713
+proxalutamide [drug],intervention_1714
+there is no intervention in this study [other],intervention_1715
+ct-v [device],intervention_1716
+1:prone positioning [behavioral],intervention_1717
+2:no instruction regarding positioning [behavioral],intervention_1718
+ruxolitinib administration [drug],intervention_1719
+"biological samples, questionnaires and interviews [other]",intervention_1720
+clinical data [other],intervention_1721
+helmet continuous positive airway pressure (cpap) [device],intervention_1722
+high flow nasal oxygen (hfno) [device],intervention_1723
+scd [device],intervention_1724
+"covid-19 igm/igg rapid testing, mobile device image capture and telemedicine support [diagnostic test]",intervention_1725
+"oxygen-ozone therapy, probiotic supplementation and standard of care [other]",intervention_1726
+doctor spot [device],intervention_1727
+lactoferrin (apolactoferrin) [dietary supplement],intervention_1728
+placebo of excipient(s) will be administered [drug],intervention_1729
+covid-19 serology [other],intervention_1730
+health care worker survey [behavioral],intervention_1731
+icu treatment [other],intervention_1732
+convalescent anti-sars-cov-2 plasma [biological],intervention_1733
+injective placebo [other],intervention_1734
+oral placebo [other],intervention_1735
+serology sars-cov2 [biological],intervention_1736
+data collection [behavioral],intervention_1737
+lsalt peptide [drug],intervention_1738
+covid icu containment measures [procedure],intervention_1739
+sarscov2 convalescent plasma [biological],intervention_1740
+mesenchymal stem cells [procedure],intervention_1741
+glycine [dietary supplement],intervention_1742
+daily coping toolkit [behavioral],intervention_1743
+t89 [drug],intervention_1744
+intervention group_rehabilitation program [other],intervention_1745
+covid19 vaccine [biological],intervention_1746
+menacwy [biological],intervention_1747
+chadox1 ncov-19 full boost [biological],intervention_1748
+chadox1 ncov-19 half boost [biological],intervention_1749
+menacwy boost [biological],intervention_1750
+paracetamol [drug],intervention_1751
+cordio app [device],intervention_1752
+nitric oxide delivered via lungfit‚Äö√±¬¢ system [device],intervention_1753
+bat + calcifediol [drug],intervention_1754
+bat [drug],intervention_1755
+hydroxychloroquine placebo [drug],intervention_1756
+protective ventilation [other],intervention_1757
+ultraprotective ventilation [other],intervention_1758
+dialysis [other],intervention_1759
+questionnary [other],intervention_1760
+cag length <22 [diagnostic test],intervention_1761
+cag length >=22 [diagnostic test],intervention_1762
+azoximer bromide [drug],intervention_1763
+community health worker support [other],intervention_1764
+care as usual [other],intervention_1765
+oral-b mouth sore mouthwash [drug],intervention_1766
+crest pro-health multi-protection mouthwash [drug],intervention_1767
+closys mouthwash [drug],intervention_1768
+distilled water [drug],intervention_1769
+intravenous drug [drug],intervention_1770
+covid-19 + patients [other],intervention_1771
+simulation of repurposed drugs for covid-19 [other],intervention_1772
+thrombin generation test assay [other],intervention_1773
+fibrin generation markers assays [other],intervention_1774
+assessment of the sequelae after hospitalization for sars-cov-2 [other],intervention_1775
+airgo respiratory monitor [device],intervention_1776
+sars-cov 2 rna pcr urine [diagnostic test],intervention_1777
+sars-cov 2 rna pcr semen [diagnostic test],intervention_1778
+semen qualitative analysis [diagnostic test],intervention_1779
+iief-5 questionnaire [diagnostic test],intervention_1780
+male sexual health questionnaire (mshq) [diagnostic test],intervention_1781
+ipss questionnaire [diagnostic test],intervention_1782
+secret questionnaire [diagnostic test],intervention_1783
+interleukin assessment in semen [diagnostic test],intervention_1784
+lopinavir/ ritonavir oral tablet [drug],intervention_1785
+hydroxychloroquine sulfate tablets plus lopinavir/ ritonavir oral tablets [drug],intervention_1786
+case fatality rate [other],intervention_1787
+oxygen hood [device],intervention_1788
+collection of blood samples in order to create a biocollection [biological],intervention_1789
+bcg-denmark [biological],intervention_1790
+acute kidney injury [other],intervention_1791
+high peep with end inspiratory pause [other],intervention_1792
+low peep - fio2 high [other],intervention_1793
+high peep without end inspiratory pause [other],intervention_1794
+low peep - fio2 low [other],intervention_1795
+all treatment about covid-2019 [other],intervention_1796
+modification of the planned therapeutic management [other],intervention_1797
+2019-ncov igg/igm rapid test cassette [device],intervention_1798
+sars-cov-2-test [diagnostic test],intervention_1799
+sars-cov-2 questionnaire survey [other],intervention_1800
+unified protocol for covid-19 parenting stress (up-covid) [behavioral],intervention_1801
+shg [behavioral],intervention_1802
+liver injury [other],intervention_1803
+ffp2 [device],intervention_1804
+facial mask [device],intervention_1805
+mfs [device],intervention_1806
+aspirin 81 mg [drug],intervention_1807
+sirukumab [drug],intervention_1808
+nasovax [biological],intervention_1809
+pd-1 blocking antibody+standard treatment [drug],intervention_1810
+thymosin+standard treatment [drug],intervention_1811
+m5049 [drug],intervention_1812
+cpap treatment [device],intervention_1813
+viusid and asbrip [dietary supplement],intervention_1814
+glycaemic levels [other],intervention_1815
+angiotensin ii [drug],intervention_1816
+interleukin-1 receptor antagonist [drug],intervention_1817
+hydroxychloroquine in combination with camostat mesylate [drug],intervention_1818
+hydroxychloroquine in combination of azithromycin [drug],intervention_1819
+angiotensin 1-7 [drug],intervention_1820
+nasopharyngeal (np) swab [diagnostic test],intervention_1821
+cannabidiol [drug],intervention_1822
+standard of care management [other],intervention_1823
+emtricitabine/tenofovir disoproxil [drug],intervention_1824
+placebo:emtricitabine/tenofovir disoproxil placebo [drug],intervention_1825
+placebo:hydroxychloroquine [drug],intervention_1826
+intravenous infusions of stem cells [biological],intervention_1827
+tears swab [diagnostic test],intervention_1828
+home sleep apnea testing or in-hospital polysomnography [diagnostic test],intervention_1829
+ino-4800 [biological],intervention_1830
+saline-sodium citrate (ssc) buffer [other],intervention_1831
+hidroxicloroquina [drug],intervention_1832
+control group [drug],intervention_1833
+medical ozone procedure [procedure],intervention_1834
+lactobaciltus rhamnosus gg [dietary supplement],intervention_1835
+lactobaciltus rhamnosus gg placebo [dietary supplement],intervention_1836
+cross-sectional observational study [other],intervention_1837
+ritonavir [drug],intervention_1838
+lopinavir [drug],intervention_1839
+melatonin 2mg [drug],intervention_1840
+"""calm"" is a mindfulness meditation mobile app [other]",intervention_1841
+calm meditation app [device],intervention_1842
+specimen collection [diagnostic test],intervention_1843
+surveys [diagnostic test],intervention_1844
+part 1 - tl-895 [drug],intervention_1845
+part 2 - tl-895 [drug],intervention_1846
+part 2 - placebo [drug],intervention_1847
+rapid detection test [diagnostic test],intervention_1848
+stool collection [diagnostic test],intervention_1849
+social media & news consumption [behavioral],intervention_1850
+ciclesonide inhalation aerosol [drug],intervention_1851
+high-titer anti-sars-cov-2 (covid 19) convalescent plasma [drug],intervention_1852
+blood sample and data record [other],intervention_1853
+sars-cov-2 igg antibody testing kit [diagnostic test],intervention_1854
+hydroxychloroquine sulfate + azythromycin [drug],intervention_1855
+pb1046 [drug],intervention_1856
+low dose (10 mg) control [drug],intervention_1857
+duplex ultrasound and computed tomography angiography [diagnostic test],intervention_1858
+continuous renal replacement therapy [procedure],intervention_1859
+budesonide dry powder inhaler [drug],intervention_1860
+views and experiences of health care professionals working in intensive care units during the covid-19 pandemic [behavioral],intervention_1861
+oxygen treatment [other],intervention_1862
+vadadustat [drug],intervention_1863
+awake proning [other],intervention_1864
+a specifically designed self-administered questionnaire [diagnostic test],intervention_1865
+rescure‚Äö√±¬¢ [biological],intervention_1866
+sampling salivary [diagnostic test],intervention_1867
+exposure to the dutch measures due to the covid-19 pandemic. [other],intervention_1868
+remote pulmonary rehabilitation [behavioral],intervention_1869
+nasal swab [diagnostic test],intervention_1870
+serum testing [diagnostic test],intervention_1871
+mencare+/bandebereho fathers'/couples' group education [behavioral],intervention_1872
+nebulised recombinant tissue-plasminogen activator (rt-pa) [drug],intervention_1873
+scanning chest x-rays and performing ai algorithms on images [diagnostic test],intervention_1874
+300 mg eidd-2801 [drug],intervention_1875
+placebo (pbo) [drug],intervention_1876
+sars-cov-2 serology [diagnostic test],intervention_1877
+budesonide nasal [drug],intervention_1878
+physiological serum [other],intervention_1879
+telehealth applications [other],intervention_1880
+dur-928 [drug],intervention_1881
+intravenous immunoglobulin [drug],intervention_1882
+doxycycline hcl [drug],intervention_1883
+pregnant women under investigation for coronavirus or diagnosed with covid-19 [other],intervention_1884
+postpartum women under investigation for coronavirus or diagnosed with covid-19 [other],intervention_1885
+"sampling (edta blood, pharyngeal and nose swabs, bronchoalveolar lavage ,urine) [diagnostic test]",intervention_1886
+biological samples collection [other],intervention_1887
+abidol hydrochloride combined with interferon atomization [drug],intervention_1888
+apl-9 [drug],intervention_1889
+vehicle control [other],intervention_1890
+oral polio vaccine + information [biological],intervention_1891
+information [behavioral],intervention_1892
+echo-doppler [diagnostic test],intervention_1893
+whoqol-bref survey [other],intervention_1894
+nebulized administration of rlf-100 or placebo [device],intervention_1895
+linagliptin 5 mg [drug],intervention_1896
+pulmonary physiotherapy techniques [other],intervention_1897
+clia of igg and igm against sars-cov-2 [diagnostic test],intervention_1898
+pre-operative screening [other],intervention_1899
+telephone consult [other],intervention_1900
+this is an online survey with no intervention. [other],intervention_1901
+patients received standard of care treatment during hospitalization [other],intervention_1902
+self-administered questionnaires [other],intervention_1903
+lock-down and social distancing [behavioral],intervention_1904
+linagliptin [drug],intervention_1905
+insulin regimen [drug],intervention_1906
+during covid-19 pandemic [other],intervention_1907
+after covid-19 pandemic [other],intervention_1908
+chat-based support [behavioral],intervention_1909
+award plus covid-specific advice [behavioral],intervention_1910
+award advice [behavioral],intervention_1911
+covid-19 related health warning leaflet [behavioral],intervention_1912
+health warning leaflet [behavioral],intervention_1913
+sms-based support [behavioral],intervention_1914
+referral card [behavioral],intervention_1915
+cosh self-help smoking cessation booklet [behavioral],intervention_1916
+sars-cov-2 infection [other],intervention_1917
+intubation box [device],intervention_1918
+asc09f+oseltamivir [drug],intervention_1919
+ritonavir+oseltamivir [drug],intervention_1920
+1:discontinuation of ras blocker therapy [drug],intervention_1921
+2:continuation of ras blocker therapy [drug],intervention_1922
+ct-imaging [device],intervention_1923
+telephone survey [other],intervention_1924
+fit test [device],intervention_1925
+filtration test [device],intervention_1926
+non-convalescent plasma (control plasma) [biological],intervention_1927
+covid-19 treatment [drug],intervention_1928
+(standard of care) soc [other],intervention_1929
+vivadiag‚Äö√±¬¢ covid-19 lgm/igg rapid test [device],intervention_1930
+brief educational video [behavioral],intervention_1931
+blood sample collection [biological],intervention_1932
+msc treatment [biological],intervention_1933
+saline control [biological],intervention_1934
+nacl solution [other],intervention_1935
+alteplase 50 mg [activase] [drug],intervention_1936
+alteplase 100 mg [activase] [drug],intervention_1937
+cynk-001 [biological],intervention_1938
+allogenic pooled olfactory mucosa-derived mesenchymal stem cells [biological],intervention_1939
+standard treatment according to the clinical protocols [other],intervention_1940
+human biological samples [procedure],intervention_1941
+aerobic exercise training [other],intervention_1942
+patient education [behavioral],intervention_1943
+respiratory exercise training [other],intervention_1944
+tissue plasminogen activator [drug],intervention_1945
+ringer solution [drug],intervention_1946
+psychological assessment [behavioral],intervention_1947
+ibudilast [drug],intervention_1948
+chadox1 ncov-19 (abs 260) [biological],intervention_1949
+menacwy vaccine [biological],intervention_1950
+chadox1 ncov-19 (abs 260) + 2.2x10^10vp (qpcr) boost [biological],intervention_1951
+two dose menacwy vaccine [biological],intervention_1952
+chadox1 n-cov-19 (abs 260) vaccine low dose [biological],intervention_1953
+chadox1 ncov-19 (qpcr) [biological],intervention_1954
+chadox1 ncov-19 plus 5x10^10vp boost (qpcr) [biological],intervention_1955
+robot assisted percutaneous cardiovascular intervention [procedure],intervention_1956
+"obtainment of nasopharyngeal, oropharyngeal, buccal, nasal and saliva samples [diagnostic test]",intervention_1957
+multistem [biological],intervention_1958
+group 1:rivaroxaban 20mg/d followed by enoxaparin/unfractionated heparin when needed [drug],intervention_1959
+group 2:control group with enoxaparin 40mg/d [drug],intervention_1960
+sndx-6352 [drug],intervention_1961
+chemotherapy [drug],intervention_1962
+human umbilical cord derived cd362 enriched mscs [biological],intervention_1963
+placebo (plasma-lyte 148) [biological],intervention_1964
+umbilical cord wharton's jelly-derived human [biological],intervention_1965
+nacl 0.9% [other],intervention_1966
+low-dose radiotherapy [radiation],intervention_1967
+ritonavir/lopinavir [drug],intervention_1968
+tocilizumab injection [actemra] [drug],intervention_1969
+oxygen supply [device],intervention_1970
+bromhexine and spironolactone [drug],intervention_1971
+base therapy [drug],intervention_1972
+mobile internet survey on self-test [other],intervention_1973
+patient sampling [other],intervention_1974
+bromhexine 8 mg [drug],intervention_1975
+darunavir and cobicistat [drug],intervention_1976
+transplant patient [other],intervention_1977
+nitric oxide-sessions [drug],intervention_1978
+nitric oxide-continuous and sessions [drug],intervention_1979
+patient status engine [device],intervention_1980
+mechanical ventilator settings and position [behavioral],intervention_1981
+questionnaire by phone call [other],intervention_1982
+non-interventional study [other],intervention_1983
+peep trial [other],intervention_1984
+survey to assess post traumatic stress and anxiety at inclusion and 6 months later [other],intervention_1985
+"serum zinc, vitamin d vitamin b12 levels . [other]",intervention_1986
+questionnaire [procedure],intervention_1987
+data collection up to 1 year [other],intervention_1988
+ruxolitinib plus simvastatin [drug],intervention_1989
+exposure to the sars-cov-2 and its consequences [other],intervention_1990
+remote cognitive behavioral therapy for insomnia [behavioral],intervention_1991
+ascorbic acid [dietary supplement],intervention_1992
+ascorbic acid and zinc gluconate [dietary supplement],intervention_1993
+covid-19 positive via testing [other],intervention_1994
+hads [behavioral],intervention_1995
+a survey [behavioral],intervention_1996
+passed infection of sars-cov-2 [other],intervention_1997
+"knowledge, attitude, practice, awareness, preference [behavioral]",intervention_1998
+covid-19 swap test pcr [diagnostic test],intervention_1999
+hydroxychloroquine sulfate 200 milligram (mg) tab [drug],intervention_2000
+"∆í¬±t will be compared pain, sleep, fatigue, physical activity level and quality of life and questioning exercise habits before and after the covid-19 outbreak in patients with beh‚àö√üet and fmf. [other]",intervention_2001
+tele-medicine platform [other],intervention_2002
+tracheotomy [procedure],intervention_2003
+fixed-duration hydrocortisone [drug],intervention_2004
+shock-dependent hydrocortisone [drug],intervention_2005
+ceftriaxone [drug],intervention_2006
+moxifloxacin or levofloxacin [drug],intervention_2007
+piperacillin-tazobactam [drug],intervention_2008
+ceftaroline [drug],intervention_2009
+amoxicillin-clavulanate [drug],intervention_2010
+macrolide administered for 3-5 days [drug],intervention_2011
+macrolide administered for up to 14 days [drug],intervention_2012
+five-days oseltamivir [drug],intervention_2013
+ten-days oseltamivir [drug],intervention_2014
+hydroxychloroquine + lopinavir/ritonavir [drug],intervention_2015
+interferon-≈ì‚â§1a [drug],intervention_2016
+fixed-duration higher dose hydrocortisone [drug],intervention_2017
+protocolised mechanical ventilation strategy [other],intervention_2018
+to assess for development of igg antibodies against sars-cov2 [diagnostic test],intervention_2019
+respiratory mechanics [other],intervention_2020
+standard ventilation strategy [other],intervention_2021
+icu recovery + physical therapy [other],intervention_2022
+n-acetylcysteine+ fuzheng huayu tablet [drug],intervention_2023
+n-acetylcysteine+placebo [drug],intervention_2024
+marker therapeutics d2000 cartridge (d2000) for use with the spectra optia¬¨√¶ apheresis system (optia spd protocol) [device],intervention_2025
+ct score [other],intervention_2026
+intravenous access [device],intervention_2027
+intraosseous access [device],intervention_2028
+rt pcr sars-cov-2 [diagnostic test],intervention_2029
+covid-19 specific t cell derived exosomes (cstc-exo) [biological],intervention_2030
+global survey [other],intervention_2031
+questionnaire forms [diagnostic test],intervention_2032
+ultra-low-dose radiotherapy [radiation],intervention_2033
+ventilatory support with oxygen therapy [device],intervention_2034
+piperacillin/tazobactam [drug],intervention_2035
+corticosteroid injection [drug],intervention_2036
+ruxolitinib 5 mg [drug],intervention_2037
+secukinumab 150 mg/ml subcutaneous solution [cosentyx] [drug],intervention_2038
+pulmonary anomalies 4 months after documented covid-19 pneumonia [diagnostic test],intervention_2039
+peer resilience champion [behavioral],intervention_2040
+enriched survey feedback [behavioral],intervention_2041
+collection of samples [other],intervention_2042
+"surgery:dynamic hip screw, hemiarthroplasty, hip replacement, intramedullary nail [other]",intervention_2043
+xav-19 [drug],intervention_2044
+nintedanib 150 mg [drug],intervention_2045
+covid-19 antibody testing (igg and igm) [diagnostic test],intervention_2046
+covid 19 diagnostic test by pcr [diagnostic test],intervention_2047
+telephonic interview during the italian lockdown. [behavioral],intervention_2048
+mri [other],intervention_2049
+otilimab [biological],intervention_2050
+messaging [behavioral],intervention_2051
+standard care [procedure],intervention_2052
+phone-call screening and management by a medical student/general practitioner tandem [behavioral],intervention_2053
+respiratory mechanics measurement [diagnostic test],intervention_2054
+gas exchange measurement [diagnostic test],intervention_2055
+healthy minds program foundations training [behavioral],intervention_2056
+woebot substance use disorder [other],intervention_2057
+"electrocardiogram, telemetry, echocardiogram, laboratory values [diagnostic test]",intervention_2058
+life questionnaires [other],intervention_2059
+intervention program [behavioral],intervention_2060
+identify sars-cov-2 infection by serology [diagnostic test],intervention_2061
+collection of biological samples [biological],intervention_2062
+auxora [drug],intervention_2063
+dornase alfa inhalation solution [drug],intervention_2064
+observation only [other],intervention_2065
+direct laryngoscopy [procedure],intervention_2066
+vie scope laryngoscopy [procedure],intervention_2067
+copan swabbing and blood sample collection [diagnostic test],intervention_2068
+thoracic ct scan [diagnostic test],intervention_2069
+serological test [biological],intervention_2070
+serum test [biological],intervention_2071
+telephone interview [other],intervention_2072
+coping strategies video [behavioral],intervention_2073
+further processing of health data [other],intervention_2074
+environmental exposure and clinical features [behavioral],intervention_2075
+mmr vaccine [biological],intervention_2076
+questionnaires [behavioral],intervention_2077
+interferon-beta [drug],intervention_2078
+quesionnair [other],intervention_2079
+a short video intervention [other],intervention_2080
+a vignette intervention [other],intervention_2081
+assembled mask [other],intervention_2082
+immunoglobulin of cured patients [drug],intervention_2083
+≈ì‚â•-globulin [drug],intervention_2084
+covid-19 infection [other],intervention_2085
+on-line survey [other],intervention_2086
+serology for covid-19 [diagnostic test],intervention_2087
+exercise group [other],intervention_2088
+virtual peer support platform [behavioral],intervention_2089
+control period [behavioral],intervention_2090
+"observation of patients with known, suspected, or at risk for covid-19 infection [other]",intervention_2091
+no interverntion [other],intervention_2092
+pandemic control measures [other],intervention_2093
+tracheal intubation and cardiopulmonary resuscitation [procedure],intervention_2094
+hope intervention [behavioral],intervention_2095
+ibuprofen [drug],intervention_2096
+hydroxychloroquine only product in oral dose form [drug],intervention_2097
+virtual-care cognitive behavioural therapy [behavioral],intervention_2098
+tracheostomy with aerosol box in covid-19 positive patients [procedure],intervention_2099
+intravenous sedation [drug],intervention_2100
+inhaled sedation [drug],intervention_2101
+iamp test [diagnostic test],intervention_2102
+cerebral compliance and hemodynamics monitoring [device],intervention_2103
+high flow nasal cannula device [device],intervention_2104
+chinese herbal medicine [dietary supplement],intervention_2105
+covid-19 e-package:psychological wellbeing for healthcare workers [other],intervention_2106
+sch intervention [other],intervention_2107
+conestat alfa [drug],intervention_2108
+cross-sectional study investigating the association of npis with mental health [other],intervention_2109
+enhanced hygiene measures [behavioral],intervention_2110
+aspirin 100mg [drug],intervention_2111
+low-dose chest ct [diagnostic test],intervention_2112
+description of groups caracteristics [other],intervention_2113
+spin-chat program [other],intervention_2114
+machine learning model [diagnostic test],intervention_2115
+bidirectional oxygenation mouthpiece [device],intervention_2116
+inhaled hypertonic ibuprofen [drug],intervention_2117
+collection of breath sample [diagnostic test],intervention_2118
+inhaled nitric oxide gas [drug],intervention_2119
+recombinant human interferon alpha-1b [drug],intervention_2120
+thymosin alpha 1 [drug],intervention_2121
+viral specific t-cells (vsts) [biological],intervention_2122
+hydroxychloroquine/chloroquine [other],intervention_2123
+tirofiban injection [drug],intervention_2124
+fondaparinux [drug],intervention_2125
+prediction market [other],intervention_2126
+health questionnaire [other],intervention_2127
+"data research, database analysis [other]",intervention_2128
+exercise [other],intervention_2129
+psychological and behaviour change support [behavioral],intervention_2130
+nutrition [other],intervention_2131
+oxygen [drug],intervention_2132
+questionnaire with precaution information [other],intervention_2133
+experimental:questionnaire without precaution information [other],intervention_2134
+bio 300 oral suspension [drug],intervention_2135
+prospective study with two measurement points investigating the impact of viral mitigation protocols on parental burnout [other],intervention_2136
+experimental drug [drug],intervention_2137
+exposure:covid-19 infection [other],intervention_2138
+observation of behavior and covid-19 infection will be conducted. [behavioral],intervention_2139
+examine the impact of covid-19 during pregnancy [behavioral],intervention_2140
+anxiety reduction training [behavioral],intervention_2141
+kundalini yoga and anxiety reduction training [behavioral],intervention_2142
+meditation and anxiety reduction training [behavioral],intervention_2143
+webex physical activity program [other],intervention_2144
+oxidative stress elisa kit [diagnostic test],intervention_2145
+apo-hydroxychloroquine [drug],intervention_2146
+das181 covid-19 [drug],intervention_2147
+das181 ol [drug],intervention_2148
+there is no intervention [other],intervention_2149
+self-acupressure [behavioral],intervention_2150
+hydroxychloroquine sar321068 [drug],intervention_2151
+mindfulness rounds [other],intervention_2152
+hit-exercise [other],intervention_2153
+sham intervention [other],intervention_2154
+serological test for covid-19. [diagnostic test],intervention_2155
+removal of dead space filter [other],intervention_2156
+sensiumvitals wearable sensor [device],intervention_2157
+medical mask [device],intervention_2158
+n95 respirator [device],intervention_2159
+c-reactive protein [diagnostic test],intervention_2160
+nitazoxanide 500mg oral tablet [drug],intervention_2161
+prospective study across two time-points examining the impact of viral mitigation protocols on mental health [other],intervention_2162
+hesperidin and diosmin mixture [drug],intervention_2163
+measurement of circulating sflt1 concentration [other],intervention_2164
+nio¬¨√¶ (intraosseous access) [device],intervention_2165
+standard of care (intravenous access) [device],intervention_2166
+emotional support plan [behavioral],intervention_2167
+daily monitoring [behavioral],intervention_2168
+computer task questionnaires [behavioral],intervention_2169
+non interventional study [other],intervention_2170
+spinal anesthesia position [other],intervention_2171
+contain covid anxiety ssi [behavioral],intervention_2172
+remain covid free ssi [behavioral],intervention_2173
+magec spine rod [device],intervention_2174
+titanium blood test [diagnostic test],intervention_2175
+bacterial species isolated [other],intervention_2176
+filmarray pcr on respiratory samples [diagnostic test],intervention_2177
+ivermectin 5 mg/ml [drug],intervention_2178
+nitazoxanide 500 mg [drug],intervention_2179
+learning running subcuticular sutures on the gamified educational network [other],intervention_2180
+samba ii (diagnostic for the real world) [diagnostic test],intervention_2181
+public health england gold standard [diagnostic test],intervention_2182
+cambridge validated viral detection method [diagnostic test],intervention_2183
+radiological detection [diagnostic test],intervention_2184
+topical steroids and cyclosporin-a [drug],intervention_2185
+freestyle libre 14 day cgm system [device],intervention_2186
+accuchek inform ii platform [device],intervention_2187
+trauma-informed yoga video recording [behavioral],intervention_2188
+covsurf drug delivery system [device],intervention_2189
+novel laser inferometry test for corona virus [diagnostic test],intervention_2190
+ng test [diagnostic test],intervention_2191
+blood test [diagnostic test],intervention_2192
+self-questionnary [behavioral],intervention_2193
+"sonclot coagulation and platelet function analyzer scp1, sienco, usa [device]",intervention_2194
+farmalarm [other],intervention_2195
+online survey [behavioral],intervention_2196
+usual care [drug],intervention_2197
+odd/even birth year intervention groups [diagnostic test],intervention_2198
+anti-coronavirus antibodies (immunoglobulins)obtained with dfpp from convalescent patients [biological],intervention_2199
+assessment of ventilator-associated pneumonia criteria [diagnostic test],intervention_2200
+proprietary extract of nerium oleander [other],intervention_2201
+high flow nasal cannula (hfnc) [device],intervention_2202
+none - na [other],intervention_2203
+nutritional intervention [other],intervention_2204
+anti-sars-cov-2 igt seropositivity [biological],intervention_2205
+low flow ecmo driving by cvvh machine [device],intervention_2206
+recombinant human interferon ≈ì¬±1≈ì‚â§ [drug],intervention_2207
+non invasive visual acuity testing [other],intervention_2208
+observation of covid 19 pneumonia [other],intervention_2209
+staff wellbeing centres [other],intervention_2210
+sarilumab sar153191 [drug],intervention_2211
+caring contacts [other],intervention_2212
+pleth variability index [diagnostic test],intervention_2213
+recombinant interferon alfa-2b [biological],intervention_2214
+rintatolimod [drug],intervention_2215
+satisfaction evaluation [other],intervention_2216
+plaquenil 200mg tablet [drug],intervention_2217
+testing sensitivity for sars-cov-2 virus in symptomatic individuals [diagnostic test],intervention_2218
+online intervention mental health covid-19 [behavioral],intervention_2219
+plasma exchange [biological],intervention_2220
+standar medical treatmen [drug],intervention_2221
+exercise training group [other],intervention_2222
+"conventional medicines (oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) and traditional chinese medicines (tcms) granules [drug]",intervention_2223
+"conventional medicines (oxygen therapy, alfa interferon via aerosol inhalation, and lopinavir/ritonavir) [drug]",intervention_2224
+online mindfulness group [behavioral],intervention_2225
+inspiratory training device [device],intervention_2226
+expiratory training device [device],intervention_2227
+psycho-social questionnaire [other],intervention_2228
+pulmonary rehabilitation [other],intervention_2229
+hydroxychloroquin with azithromycin [drug],intervention_2230
+non-contact magnetically-controlled capsule endoscopy [device],intervention_2231
+behavioral:ocat-sham [behavioral],intervention_2232
+behavioral:ocat [behavioral],intervention_2233
+psycho-education video [other],intervention_2234
+mindfulness intervention [behavioral],intervention_2235
+non-mindfulness intervention [behavioral],intervention_2236
+bcg group [biological],intervention_2237
+placebo group [other],intervention_2238
+asynchronies detection [diagnostic test],intervention_2239
+hydroxychloroquine oral product [drug],intervention_2240
+dexmedetomidine injectable product [drug],intervention_2241
+sars-cov-2 pcr [diagnostic test],intervention_2242
+cross-sectional study examining the impact of information sources to obtain information about covid-19 on depression and anxiety symptoms [behavioral],intervention_2243
+video based exercise [behavioral],intervention_2244
+robotic therapy [device],intervention_2245
+transitional online peer support group (n=24) [behavioral],intervention_2246
+"control group (pharmacotherapy and/or psychotherapy, n=24) [other]",intervention_2247
+nitric oxide-releasing drug [drug],intervention_2248
+online survey [diagnostic test],intervention_2249
+sar443122 [drug],intervention_2250
+no choice group [behavioral],intervention_2251
+short list choice group [behavioral],intervention_2252
+long-list choice group [behavioral],intervention_2253
+assessment of work-related stress [behavioral],intervention_2254
+saliva sample collection [biological],intervention_2255
+cardiac and electrodermal recordings [other],intervention_2256
+assessment of behavioral response to emotional stimulation [behavioral],intervention_2257
+ecco2r [device],intervention_2258
+nors (nitric oxide releasing solution) [drug],intervention_2259
+microcannula harvest adipose derived tissue stromal vascular fraction (tsvf) [procedure],intervention_2260
+centricyte 1000 [device],intervention_2261
+iv deployment of csvf in sterile normal saline iv solution [procedure],intervention_2262
+liberase enzyme (roche) [drug],intervention_2263
+sterile normal saline for intravenous use [drug],intervention_2264
+data registry [behavioral],intervention_2265
+simple cognitive task intervention [behavioral],intervention_2266
+attention placebo [behavioral],intervention_2267
+chest ct scan [other],intervention_2268
+survey and questionnaire [other],intervention_2269
+evaluation of changes in the diagnostic-therapeutic pathway for patients affected by pancreatic cancer [procedure],intervention_2270
+standard therapy recommended by the ministry of health of the russian federation. [procedure],intervention_2271
+standard therapy recommended by the ministry of health of the russian federation and dalargin intramuscular injection [procedure],intervention_2272
+standard therapy recommended by the ministry of health of the russian federation and dalargin inhalation [procedure],intervention_2273
+standard therapy recommended by the ministry of health of the russian federation and dalargin intramuscular injection combined with dalargin inhalation [procedure],intervention_2274
+susceptibility to infection [diagnostic test],intervention_2275
+stem cell product [drug],intervention_2276
+anti-coronavirus antibodies (immunoglobulins) obtained with dfpp form convalescent patients [biological],intervention_2277
+ptsd [behavioral],intervention_2278
+burnout [behavioral],intervention_2279
+digital health online platform [behavioral],intervention_2280
+nutrition support [other],intervention_2281
+patient-centred advice on telephone consultation in tb patients: [behavioral],intervention_2282
+therapist guided e-therapy [behavioral],intervention_2283
+self-help therapy [behavioral],intervention_2284
+"cholecalciferol 200,000 iu [drug]",intervention_2285
+"cholecalciferol 50,000 iu [drug]",intervention_2286
+familychildcare (provisional name of app) [device],intervention_2287
+plasma [biological],intervention_2288
+best available therapy [other],intervention_2289
+tof protocol [device],intervention_2290
+arct-021 dose 1 [biological],intervention_2291
+arct-021 dose 2 [biological],intervention_2292
+arct-021 dose 3 [biological],intervention_2293
+arct-021 dose regimen 1 [biological],intervention_2294
+arct-021 dose regimen 2 [biological],intervention_2295
+fixed-dose combination of pertuzumab and trastuzumab for subcutaneous administration (ph fdc sc) [drug],intervention_2296
+telemedicine to remote outpatient visit in bariatric patient [other],intervention_2297
+pcl cov05 - covid 19 ag rapid fia test (rapid antigen test) [diagnostic test],intervention_2298
+yoga group [behavioral],intervention_2299
+high intensity interval training group [behavioral],intervention_2300
+combination [behavioral],intervention_2301
+group a hcq [drug],intervention_2302
+group b control [drug],intervention_2303
+toraymyxin pmx-20r (pmx cartridge) [device],intervention_2304
+n∆í‚àûcas [device],intervention_2305
+covid19 immunization testing [diagnostic test],intervention_2306
+standard administration of oxygen flow [other],intervention_2307
+automated oxygen administration - freeo2 [device],intervention_2308
+gamification [behavioral],intervention_2309
+newsfeed function [behavioral],intervention_2310
+arbidol [drug],intervention_2311
+basic treatment [other],intervention_2312
+phq-9 (patient health questionnaire) depression scale [other],intervention_2313
+gad-7 (general anxiety disorder) scale [other],intervention_2314
+38 questions questionnaire [other],intervention_2315
+epds (edinburgh postnatal depression scale) [other],intervention_2316
+assessment of postnatal depression using the the edinburgh questionnaire between 4 and 6 weeks after delivery [other],intervention_2317
+exposure (not intervention) - sars-cov-2 infection [other],intervention_2318
+"questionnaire including validated tools such as patient health questionnaire (phq-9), the 7-item generalised anxiety disorder (gad- 7), the 7-item insomnia severity index [other]",intervention_2319
+"questionnaire, same tools as before, with inclusion of pcl5 questionnaire too. [other]",intervention_2320
+informed consent [other],intervention_2321
+azithromycin and hydroxychloroquine [drug],intervention_2322
+vibrolung [device],intervention_2323
+laboratory biomarkers [diagnostic test],intervention_2324
+internet-delivered cognitive behavior therapy (icbt) for dysfunctional worry related to the covid-19 pandemic [behavioral],intervention_2325
+tradipitant [drug],intervention_2326
+gammacore¬¨√¶ sapphire (non-invasive vagus nerve stimulator) [device],intervention_2327
+standard of care therapies [other],intervention_2328
+surgical procedures performed under general anesthesia [procedure],intervention_2329
+iota carrageenan [device],intervention_2330
+standard treatment for covid-19 [other],intervention_2331
+percutaneous coronary revascularization for stemi [device],intervention_2332
+taking biological samples [other],intervention_2333
+rt-pcr covid-19 [diagnostic test],intervention_2334
+inactivated convalescent plasma [drug],intervention_2335
+support treatment [drug],intervention_2336
+management of covid-19 [drug],intervention_2337
+"sars-cov-2 research in nasopharyngeal swab, sperm and serologics [diagnostic test]",intervention_2338
+eye movement desensitisation and reprocessing recent traumatic event protocol [other],intervention_2339
+individualised ayurveda [other],intervention_2340
+global longitudinal strain [diagnostic test],intervention_2341
+arfc mask [device],intervention_2342
+interview [behavioral],intervention_2343
+no interventional study [other],intervention_2344
+intervention app [behavioral],intervention_2345
+vitamin d3 [drug],intervention_2346
+doctella telehealth monitoring [device],intervention_2347
+ria-device (remote investigation and assessment) [device],intervention_2348
+covid-19 presto test [diagnostic test],intervention_2349
+interview by psychologists [other],intervention_2350
+performing routine care (clinical and paraclinical tests) [diagnostic test],intervention_2351
+examinations for the research: [diagnostic test],intervention_2352
+questionnaire [diagnostic test],intervention_2353
+serum sars cov 2 igg screening in health care workers [diagnostic test],intervention_2354
+nk cells [biological],intervention_2355
+nosocomial infection/hospital acquired infection [other],intervention_2356
+bone conduction headphones [device],intervention_2357
+veru-111 [drug],intervention_2358
+biomarkers expression [diagnostic test],intervention_2359
+labs [other],intervention_2360
+olfactory retraining [other],intervention_2361
+corticosteroid nasal irrigation [drug],intervention_2362
+smell household items [other],intervention_2363
+nasal irrigation [other],intervention_2364
+questionnaire for evaluation of confinement on deviant sexual fantasies [behavioral],intervention_2365
+spironolactone 100mg [drug],intervention_2366
+non-contact mce system [device],intervention_2367
+survey [behavioral],intervention_2368
+normal saline 0.9% [biological],intervention_2369
+virtual group intervention [behavioral],intervention_2370
+personal exercise intervention [behavioral],intervention_2371
+standard operating procedures [other],intervention_2372
+transpulmonary thermodilution [device],intervention_2373
+echocardiography [device],intervention_2374
+"complete blood picture, bone marrow aspiration cytology [diagnostic test]",intervention_2375
+rehabilitation exercise protocol [other],intervention_2376
+2019-ncov pcr [biological],intervention_2377
+stem cell educator-treated mononuclear cells apheresis [combination product],intervention_2378
+escin [drug],intervention_2379
+flow cytometry [diagnostic test],intervention_2380
+covid-19 pneumonia [other],intervention_2381
+maslach burnout inventory questionnair [other],intervention_2382
+anti- sars-cov-2 plasma [biological],intervention_2383
+sars-cov-2 non-immune plasma [biological],intervention_2384
+covidfree@home [device],intervention_2385
+roactemra iv [drug],intervention_2386
+roactemra sc [drug],intervention_2387
+kevzara sc [drug],intervention_2388
+standard medical care [other],intervention_2389
+cvncov vaccine [biological],intervention_2390
+beck depression inventory (bdi) [other],intervention_2391
+ino-4800 [drug],intervention_2392
+serum tube collection [biological],intervention_2393
+inhaled budesonide [drug],intervention_2394
+biochemical analysis [other],intervention_2395
+ayurveda [dietary supplement],intervention_2396
+covid positive via testing [other],intervention_2397
+"dietary counselling on food groups according to iyc feeding practices, who [other]",intervention_2398
+ct of the chest [device],intervention_2399
+home-based exercise [other],intervention_2400
+blood test [biological],intervention_2401
+maximal effort test [other],intervention_2402
+actigraphy [device],intervention_2403
+neuromuscular evaluation [device],intervention_2404
+remote consultation [other],intervention_2405
+aerolized hydroxychloroquine sulfate [drug],intervention_2406
+screening test for covid ( rt pcr and ct chest) [biological],intervention_2407
+primary care [other],intervention_2408
+training session adressing information and health literacy [behavioral],intervention_2409
+internet-based self-help [behavioral],intervention_2410
+internet-based self-help after 3 weeks [behavioral],intervention_2411
+meditation app usage [behavioral],intervention_2412
+assessment of cardiovascular diseases and cardiovascular risk factors [diagnostic test],intervention_2413
+symptomatic drugs [drug],intervention_2414
+bridge therapy [drug],intervention_2415
+mindfulness program [behavioral],intervention_2416
+video dance classes [other],intervention_2417
+unsupervised physical activities [other],intervention_2418
+patients receiving nasal high flow [device],intervention_2419
+use of social media during covid-19 [behavioral],intervention_2420
+bone marrow harvest [procedure],intervention_2421
+feeling good digital app [other],intervention_2422
+serology test for covid-19 [diagnostic test],intervention_2423
+mefloquine [drug],intervention_2424
+mefloquine + azithromycin + / - tocilizumab [combination product],intervention_2425
+hydroxychloroquine + azithromycin + / - tocilizumab [combination product],intervention_2426
+research specific blood sample [other],intervention_2427
+online cognitive behavioral therapy (cbt) [behavioral],intervention_2428
+online bibliotherapy programme [behavioral],intervention_2429
+placebo vaccine [biological],intervention_2430
+wharton's jelly derived mesenchymal stem cells. [drug],intervention_2431
+"hydroxychloroquine, lopinavir/ritonavir or azithromycin and placebo (standard therapy) [drug]",intervention_2432
+psychological and sociological interviews [other],intervention_2433
+identification by pcr of the sars-cov-2 virus in samples taken from the fetus [diagnostic test],intervention_2434
+doppler echo [other],intervention_2435
+morning pranayama [behavioral],intervention_2436
+pre_lunch pranayama [behavioral],intervention_2437
+pre_dinner pranayama [behavioral],intervention_2438
+comprehensive treatment [other],intervention_2439
+uniform random message delivery [behavioral],intervention_2440
+reinforcement learning message delivery [behavioral],intervention_2441
+placebo solution [drug],intervention_2442
+slef questionnaires fulfilment [other],intervention_2443
+no intervention (survey study for medical doctors). [other],intervention_2444
+convalescent plasma 1 unit [biological],intervention_2445
+convalescent plasma 2 units [biological],intervention_2446
+breath biopsy face masks with removable filters and fitted pva strip [device],intervention_2447
+the prepare program [behavioral],intervention_2448
+serology [diagnostic test],intervention_2449
+sequencing [genetic],intervention_2450
+attendance by ambulance crew [other],intervention_2451
+asc09/ritonavir group [drug],intervention_2452
+lopinavir/ritonavir group [drug],intervention_2453
+stem cells [combination product],intervention_2454
+blood sample for seroepidemiological investigation [procedure],intervention_2455
+cytokines measurement [diagnostic test],intervention_2456
+cellular response [diagnostic test],intervention_2457
+tlrs activation measurement [diagnostic test],intervention_2458
+kir phenotype evaluation [diagnostic test],intervention_2459
+vc [drug],intervention_2460
+sterile water for injection [drug],intervention_2461
+regn10933+regn10987 [drug],intervention_2462
+venepuncture [procedure],intervention_2463
+oral fluid swab [procedure],intervention_2464
+home-cov rule implementation [other],intervention_2465
+plasma expansion with ringer's acetate [other],intervention_2466
+decisions of limitations and stop processing [behavioral],intervention_2467
+xiyanping injection [drug],intervention_2468
+"lopinavir / ritonavir, alpha-interferon nebulization,abidor hydrochloride [drug]",intervention_2469
+bnt162a1 [biological],intervention_2470
+bnt162c2 [biological],intervention_2471
+less-frequency hemodialysis [other],intervention_2472
+recombinase aided amplification (raa) assay [diagnostic test],intervention_2473
+home exercise program [behavioral],intervention_2474
+neural network diagnosis algorithm [diagnostic test],intervention_2475
+prayer [behavioral],intervention_2476
+nitric oxide 0.5 % / nitrogen 99.5 % gas for inhalation [drug],intervention_2477
+angiography scanner [radiation],intervention_2478
+mcc ims [diagnostic test],intervention_2479
+questionaire to husband and wife [behavioral],intervention_2480
+standard screening strategy [diagnostic test],intervention_2481
+new screening strategy [diagnostic test],intervention_2482
+double gloves [procedure],intervention_2483
+coronavirus disease 2019 [other],intervention_2484
+interleukin 6 (il6) antagonist [drug],intervention_2485
+interleukin 6 (il6) antagonist and corticosteroids [drug],intervention_2486
+alpha one antitrypsin inhalation [drug],intervention_2487
+meplazumab for injection [drug],intervention_2488
+internet-based guided self-help based on cbt principles [behavioral],intervention_2489
+40ml blood sample [other],intervention_2490
+positive feedback [behavioral],intervention_2491
+evaluation of skin microvascular flow and reactivity [other],intervention_2492
+deep breathing training [other],intervention_2493
+compassion focused intervention [other],intervention_2494
+sse educational intervention [behavioral],intervention_2495
+home sample collection of concerning mole with physician supervision [other],intervention_2496
+active control:healthy living [behavioral],intervention_2497
+minnrap peer support program [behavioral],intervention_2498
+sudarshan kriya yoga (sky) [other],intervention_2499
+health enhancement program [other],intervention_2500
+public space exposure [other],intervention_2501
+change in preference to surgery under covid-19 pandemic. [behavioral],intervention_2502
+bariatric procedures [procedure],intervention_2503
+mesenchymal stromal stem cells - ki-msc-pl-205 [drug],intervention_2504
+rba-2 [diagnostic test],intervention_2505
+tak-981 [drug],intervention_2506
+rapid pathogen detection [diagnostic test],intervention_2507
+weight counseling [other],intervention_2508
+mindfulness training (mt) connect [behavioral],intervention_2509
+covicu [other],intervention_2510
+video based aerobic exercise [other],intervention_2511
+after-each-case room disinfection [other],intervention_2512
+daily room disinfection [other],intervention_2513
+convalescent immune plasma [other],intervention_2514
+chat-based instant messaging support [behavioral],intervention_2515
+sms message support [behavioral],intervention_2516
+self-help booklet [behavioral],intervention_2517
+"determination of physical activity, quality of life, stress levels of isolated people at home with the danger of coronavirus. [other]",intervention_2518
+mechanical ventilation with the automated bvm compressor [device],intervention_2519
+communication type [other],intervention_2520
+vitamin d 1000 iu [dietary supplement],intervention_2521
+self-compassion for chronic pain virtual group treatment program [behavioral],intervention_2522
+ph94b [drug],intervention_2523
+impliminting online distance learning [other],intervention_2524
+brief cognitive behavioral therapy [behavioral],intervention_2525
+crisis intervention therapy [behavioral],intervention_2526
+six-month arv dispensing [other],intervention_2527
+ketotifen 1 mg [drug],intervention_2528
+makair [device],intervention_2529
+standardized lung ultrasound (lus) examination [diagnostic test],intervention_2530
+inhaled budesonide and formoterol [drug],intervention_2531
+inhaled placebo [drug],intervention_2532
+chest mri [diagnostic test],intervention_2533
+biomarkers in the long term impact of coronavirus infection in the cardiorrespiratory system [other],intervention_2534
+high-titer anti-sars-cov-2 plasma [biological],intervention_2535
+oxygen therapy [other],intervention_2536
+technology based social interactions [behavioral],intervention_2537
+no research related technology based social interactions [other],intervention_2538
+300 mg of omega3-fa [dietary supplement],intervention_2539
+dig axial [other],intervention_2540
+dig tilted [other],intervention_2541
+cig axial [other],intervention_2542
+cig tilted [other],intervention_2543
+digital cardiac counseling [other],intervention_2544
+mindfulness [behavioral],intervention_2545
+virtual care and remote automated monitoring [other],intervention_2546
+digivis visual acuity app [device],intervention_2547
+lifestyle change promotion program [behavioral],intervention_2548
+mindfullness based cognitive program [behavioral],intervention_2549
+written information [behavioral],intervention_2550
+basic body awareness therapy [behavioral],intervention_2551
+psychological treatment [behavioral],intervention_2552
+extracorporeal left hemicolectomy anastomosis [procedure],intervention_2553
+intracorporeal left hemicolectomy anastomosis [procedure],intervention_2554
+proper diet [dietary supplement],intervention_2555
+tak-671 [drug],intervention_2556
+tak-671 placebo [drug],intervention_2557
+faecal sample collector [device],intervention_2558
+pioglitazone [drug],intervention_2559
+emotional freedom technique [behavioral],intervention_2560
+esoger [other],intervention_2561
+thrombin generation assay (tga) [diagnostic test],intervention_2562
+thrombomodulin modified thrombin generation assay (tga-tm) [diagnostic test],intervention_2563
+tavr or savr [device],intervention_2564
+botulinum neurotoxin [drug],intervention_2565
+propranolol hydrochloride [drug],intervention_2566
+web-based psychosocial peer-to-peer support [behavioral],intervention_2567
+drug:na-831 - 0.10 mg/kg [drug],intervention_2568
+placebo- 0.10 mg/kg [drug],intervention_2569
+drug:na-831 - 0.20 mg/kg [drug],intervention_2570
+placebo- 0.20 mg/kg [drug],intervention_2571
+drug:gs-5734 - 1.00 mg/kg [drug],intervention_2572
+placebo- 1.00 mg/kg [drug],intervention_2573
+drug:gs-5734 - 2.00 mg/kg [drug],intervention_2574
+placebo- 2.00 mg/kg [drug],intervention_2575
+drugs:na-831 (0.10 mg/kg) plus gs-5734 (1.00 mg/kg) [combination product],intervention_2576
+placebo 0.10 mg + 1.00 mg/kg [combination product],intervention_2577
+drugs:na-831 (0.20 mg/kg) plus gs-5734 (2.00 mg/kg) [combination product],intervention_2578
+placebo 0.20 mg + 2.00 mg/kg [combination product],intervention_2579
+allostim [drug],intervention_2580
+study group [other],intervention_2581
+use of mobile application [behavioral],intervention_2582
+sensbiosys [device],intervention_2583
+"the pop02 study is collecting bodily fluid samples (i.e., whole blood, effluent samples) of children prescribed the following drugs of interest per standard of care: [drug]",intervention_2584
+"primary care professionals reports of potential patient safety incidents, non-covid-19 related [other]",intervention_2585
+"gps reports of potential patient safety incidents, non-covid-19 related [other]",intervention_2586
+budesonide [drug],intervention_2587
+high-concentration essential oil [behavioral],intervention_2588
+low-concentration essential oil [behavioral],intervention_2589
+medically tailored meals [other],intervention_2590
+software messaging [behavioral],intervention_2591
+mindfulness alone (mo) intervention [behavioral],intervention_2592
+mindfulness + compassion intervention (mc) [behavioral],intervention_2593
+favir 200 mg ft [drug],intervention_2594
+avigan 200 mg ft [drug],intervention_2595
+the standard macintosh laryngoscope [device],intervention_2596
+the vie scope laryngoscope [device],intervention_2597
+clinical trial matching [other],intervention_2598
+intervention group coronacope [behavioral],intervention_2599
+telerehabilitation-based [other],intervention_2600
+video-based [other],intervention_2601
+favipiravir 200 mg [drug],intervention_2602
+test drug 200 mg favipiravir [drug],intervention_2603
+reference drug 200 mg favipiravir [drug],intervention_2604
+assessment of dietary changes in adults in the quarantine [other],intervention_2605
+atafenovir 200 mg kapsul [drug],intervention_2606
+arbidol 100 mg kapsul [drug],intervention_2607
+test:favipiravir 200 mg (loqular) [drug],intervention_2608
+reference:favipiravir 200 mg (avigan) [drug],intervention_2609
+mindfulness based intervention [behavioral],intervention_2610
+lopinavir 200mg/ritonavir 50mg ft test [drug],intervention_2611
+lopinavir 200mg/ritonavir 50mg ft reference [drug],intervention_2612
+mscs-derived exosomes [biological],intervention_2613
+double-blind nt-i7 [drug],intervention_2614
+double-blind placebo [drug],intervention_2615
+lambda 180 mcg s.c [drug],intervention_2616
+anti-sars-cov-2 equine immunoglobulin fragments (inosars) [drug],intervention_2617
+massive parallel sequencing of host genome [genetic],intervention_2618
+aprotinin [drug],intervention_2619
+individualized-chinese herbal medicine [other],intervention_2620
+feces samples (covi-biome ancillary study) [other],intervention_2621
+sweat samples (covidog ancillary study) [other],intervention_2622
+multipeptide cocktail [biological],intervention_2623
+ag0302-covid19 [biological],intervention_2624
+prolastin [biological],intervention_2625
+liquid alpha1-proteinase inhibitor (human) [biological],intervention_2626
+standard of care (paracetamol) [other],intervention_2627
+artesunate-amodiaquine [drug],intervention_2628
+favipiravir plus nitazoxanide [drug],intervention_2629
+sofosbuvir/daclatasvir [drug],intervention_2630
+losmapimod oral tablet [drug],intervention_2631
+convalescent anti-sars-cov-2 mbt plasma [biological],intervention_2632
+high-titer convalescent covid-19 plasma (ccp1) [biological],intervention_2633
+standard-titer convalescent covid-19 plasma (ccp2) [biological],intervention_2634
+two covid-19 vaccine candidate (tmv-083) administrations - low dose [biological],intervention_2635
+two covid-19 vaccine candidate (tmv-083) administrations - high dose [biological],intervention_2636
+one covid-19 vaccine candidate (tmv-083) administration - high dose [biological],intervention_2637
+sars-cov-2 antibody based ivig therapy [biological],intervention_2638
+brainstem responses assessment sedation score (brass) [diagnostic test],intervention_2639
+electroencephalogram with ekg lead [diagnostic test],intervention_2640
+maraviroc + currently used therapy [drug],intervention_2641
+curently used therapy for covid-19 non-critical patients [procedure],intervention_2642
+favipiravir + currently used therapy [drug],intervention_2643
+maraviroc+favipiravir+ct [drug],intervention_2644
+standard concomitant therapy [drug],intervention_2645
+sofosbuvir 400 mg plus daclatasvir 200mg [drug],intervention_2646
+allocetra-ots [biological],intervention_2647
+1. characterize the immune response after infection with sars-cov-2 [genetic],intervention_2648
+apixaban 2.5 mg [drug],intervention_2649
+apixaban 5mg [drug],intervention_2650
+msct [device],intervention_2651
+low dose whole lung radiotherapy for older patients with covid-19 pneumonitis [radiation],intervention_2652
+plant polyphenol [drug],intervention_2653
+grad-cov2 [biological],intervention_2654
+sofusbuvir + daclastavir [drug],intervention_2655
+placebo sofusbuvir + daclatasvir [drug],intervention_2656
+phlebotomy [diagnostic test],intervention_2657
+aerosolized dnase [drug],intervention_2658
+nacl [drug],intervention_2659
+auricular percutaneous neurostimulation [device],intervention_2660
+ec-18 [drug],intervention_2661
+placebo ec-18 [drug],intervention_2662
+exercise training [behavioral],intervention_2663
+isoquercetin (iqc-950an) [drug],intervention_2664
+ly3832479 [drug],intervention_2665
+placebo to match rdv [drug],intervention_2666
+5-ala-phosphate + sfc (5-ala + sfc) [dietary supplement],intervention_2667
+biological [biological],intervention_2668
+zavegepant (bhv-3500) [drug],intervention_2669
+questionaire [other],intervention_2670
+saliva-based testing [behavioral],intervention_2671
+pep flute [device],intervention_2672
+lung ultrasound use in patients hospitalized with covid [diagnostic test],intervention_2673
+sti-5656 [drug],intervention_2674
+estrogen therapy [drug],intervention_2675
+nt-i7 [drug],intervention_2676
+blood for research purposes [procedure],intervention_2677
+blood for pharmacokinetic samples [procedure],intervention_2678
+"nasopharyngeal, oropharyngeal, or saliva swab [procedure]",intervention_2679
+blood for anti-drug antibody (ada) [procedure],intervention_2680
+toremifene [drug],intervention_2681
+arbs and/or ace inhibitors [other],intervention_2682
+no intervention. observational cohort study [other],intervention_2683
+nbt-nm108 [drug],intervention_2684
+usual care only [other],intervention_2685
+breath sample [diagnostic test],intervention_2686
+cenicriviroc (cvc) [drug],intervention_2687
+alexa amazon [device],intervention_2688
+pet-ct of 18f-fdg [diagnostic test],intervention_2689
+razuprotafib subcutaneous solution [drug],intervention_2690
+placebo subcutaneous solution [drug],intervention_2691
+ivermectin nasal [drug],intervention_2692
+ivermectin oral [drug],intervention_2693
+famotidine 20 mg [drug],intervention_2694
+csl324 [biological],intervention_2695
+dwj1248 [drug],intervention_2696
+covid-19 pcr swab [diagnostic test],intervention_2697
+pulse oximeter [diagnostic test],intervention_2698
+home-use test and follow-up questionnaire [other],intervention_2699
+vir-7831 [biological],intervention_2700
+asunercept [biological],intervention_2701
+"serelogy testing, rt pcr [diagnostic test]",intervention_2702
+sofosbuvir plus ledipasvir [drug],intervention_2703
+elisa and rapid test to detect antibodies against covid-19 [diagnostic test],intervention_2704
+povidone-iodine 0.4% ni [drug],intervention_2705
+povidone-iodine 0.5% ni [drug],intervention_2706
+povidone-iodine 0.6% ni [drug],intervention_2707
+povidone-iodine 0.5% ns [drug],intervention_2708
+povidone-iodine 0.6% ns [drug],intervention_2709
+placebo comparator:dw-ni [other],intervention_2710
+placebo comparator:dw-ns [other],intervention_2711
+antroquinonol [drug],intervention_2712
+avigan [drug],intervention_2713
+iv dexamethasone [drug],intervention_2714
+nasal dexamethasone [drug],intervention_2715
+epivaccorona (epivaccorona vaccine based on peptide antigens for the prevention of covid-19) [biological],intervention_2716
+"placebo (sodium chloride bufus, solvent for the preparation of dosage forms for injection 0.9%) [other]",intervention_2717
+v591 [biological],intervention_2718
+azd1656 [drug],intervention_2719
+fuzheng huayu tablet [drug],intervention_2720
+vitamin c tablets [drug],intervention_2721
+respiratory function rehabilitation training [other],intervention_2722
+core warming [device],intervention_2723
+patient characteristics [other],intervention_2724
+covid-19 treatments [other],intervention_2725
+differences in triage [other],intervention_2726
+surge capacity [other],intervention_2727
+masked saline placebo [other],intervention_2728
+mr or m-m-r ii ¬¨√¶ vaccine [drug],intervention_2729
+diagnostic laboratory biomarker analysis [other],intervention_2730
+electronic health record review [other],intervention_2731
+inactivated sars-cov-2 vaccine (vero cell) [biological],intervention_2732
+ent exam [diagnostic test],intervention_2733
+olfactometry [diagnostic test],intervention_2734
+brain mri [diagnostic test],intervention_2735
+temporarily holding the raas inhibitor [intervention] [other],intervention_2736
+raas inhibitor [continued standard of care] [other],intervention_2737
+antithrombotic therapy (anticoagulant and/or antiplatelet) before admission for covid19 [other],intervention_2738
+saliva and nps test [diagnostic test],intervention_2739
+project echo [other],intervention_2740
+clbs119 [biological],intervention_2741
+placebo tablet [other],intervention_2742
+placebo capsules [other],intervention_2743
+tomeka¬¨√¶ [combination product],intervention_2744
+"""vernonia amygdalina"" [drug]",intervention_2745
+tafenoquine oral tablet [drug],intervention_2746
+videofluoroscopic swallowing study (vfss) [diagnostic test],intervention_2747
+apixaban [drug],intervention_2748
+covid-19 antibody point of care test kit [diagnostic test],intervention_2749
+retrospective metagenomics on clinical samples collected during hospitalization [other],intervention_2750
+anticoagulation agents (edoxaban and/or high dose lmwh) [drug],intervention_2751
+low dose low molecular weight heparin or placebo [drug],intervention_2752
+"training of youth, community health assistants and community health workers. [other]",intervention_2753
+training clinicians in basic critical care and the management of severe covid-19 cases [other],intervention_2754
+non-invasive red lllt treatment to chest of patient. [device],intervention_2755
+sham device treatment [device],intervention_2756
+"two doses of middle-dose recombinant sars-cov-2 vaccine (sf9 cell) at the schedule of day 0, 28 [biological]",intervention_2757
+"two doses of high-dose recombinant sars-cov-2 vaccine (sf9 cell) at the schedule of day 0, 28 [biological]",intervention_2758
+"three doses of high-dose recombinant sars-cov-2 vaccine (sf9 cell) at the schedule of day 0, 14, 28 [biological]",intervention_2759
+"two doses of placebo at the schedule of day 0, 28√¥¬∫√†middle-dose group√¥¬∫√¢ [biological]",intervention_2760
+"two doses of placebo at the schedule of day 0, 28√¥¬∫√†high-dose group√¥¬∫√¢ [biological]",intervention_2761
+"three doses of placebo at the schedule of day 0, 14, 28√¥¬∫√†high-dose group√¥¬∫√¢ [biological]",intervention_2762
+azd7442 [combination product],intervention_2763
+convalescent plasma as therapy for covid-19 patients [biological],intervention_2764
+data collection from medical files [other],intervention_2765
+alvelestat [drug],intervention_2766
+"analogs, prostaglandin e1 [drug]",intervention_2767
+standard therapeutic protocol [drug],intervention_2768
+sars-cov-2 antibody immunoassays [diagnostic test],intervention_2769
+ivermectin and doxycycline [drug],intervention_2770
+bucillamine [drug],intervention_2771
+isis 721744 [drug],intervention_2772
+electronic survey [other],intervention_2773
+mpt0b640 [drug],intervention_2774
+theraputic heparin [drug],intervention_2775
+prophylactic heparin [drug],intervention_2776
+interleuken 6 level measurment [diagnostic test],intervention_2777
+interleukin-6 gene-174c detection [diagnostic test],intervention_2778
+diagnostic test:serology test for covid-19 [diagnostic test],intervention_2779
+opt-out recruitment email [behavioral],intervention_2780
+opt-in recruitment email [behavioral],intervention_2781
+antibody testing [biological],intervention_2782
+brexanolone [drug],intervention_2783
+astrostem-v [drug],intervention_2784
+virtual reality therapy first [device],intervention_2785
+conventional therapy first [device],intervention_2786
+covi-guard [biological],intervention_2787
+f-652 [biological],intervention_2788
+comparison of sample collection methods [diagnostic test],intervention_2789
+cytosorb [device],intervention_2790
+sars-cov-2 vaccine formulation 1 with adjuvant 1 [biological],intervention_2791
+sars-cov-2 vaccine formulation 1 with adjuvant 2 [biological],intervention_2792
+sars-cov-2 vaccine formulation 2 with adjuvant 1 [biological],intervention_2793
+sars-cov-2 vaccine formulation 2 with adjuvant 2 [biological],intervention_2794
+sars-cov-2 vaccine formulation 2 without adjuvant [biological],intervention_2795
+placebo (0.9% normal saline) [biological],intervention_2796
+prednisone tablet [drug],intervention_2797
+lmwh [drug],intervention_2798
+covid19 convalescent plasma infusion [biological],intervention_2799
+nebulised unfractionated heparin (ufh) [drug],intervention_2800
+lymphocyte monocyte ratio [diagnostic test],intervention_2801
+sars-cov-2 rs - phase 1 [biological],intervention_2802
+sars-cov-2 rs/matrix-m adjuvant - phase 1 [biological],intervention_2803
+"normal saline solution (nss), placebo - phase 1 [other]",intervention_2804
+"normal saline solution (nss), placebo - phase 2 [other]",intervention_2805
+"sars-cov-2 rs/matrix-m adjuvant, day 0 - phase 1 [biological]",intervention_2806
+"normal saline solution (nss), placebo, day 21 - phase 1 [other]",intervention_2807
+"sars-cov-2 rs/matrix-m adjuvant, days 0 and 21 - phase 2 [biological]",intervention_2808
+"normal saline solution (nss), placebo, day 189 - phase 2 [other]",intervention_2809
+"sars-cov-2 rs/matrix-m adjuvant, day 0 - phase 2 [biological]",intervention_2810
+"normal saline solution (nss), placebo, day 21 - phase 2 [other]",intervention_2811
+sars-cov-2 rs/matrix-m adjuvant - day 189 - phase 2 [biological],intervention_2812
+tenofovir/ emtricitabine ( 300 mg / 200 mg daily during 60 days) + personal protective equipment (ppe) [drug],intervention_2813
+placebo (1 tablet daily during 60 days) + personal protective equipment (ppe) [other],intervention_2814
+prolectin-m; a (1-6)-alpha-d-mannopyranose class [other],intervention_2815
+iota-carrageenan [drug],intervention_2816
+ub-612 [biological],intervention_2817
+observational measurement of biometric data. no change to health care provided. [device],intervention_2818
+cyclosporin a [drug],intervention_2819
+sno [drug],intervention_2820
+intravenous immunoglobulin therapy [biological],intervention_2821
+sars-cov-2 rs/matrix-m1 adjuvant [biological],intervention_2822
+testing for sars-cov-2 [diagnostic test],intervention_2823
+late-dexamethasone [drug],intervention_2824
+mometasone furoate nasal spray [drug],intervention_2825
+bardoxolone methyl [drug],intervention_2826
+invasive mechanical ventilation using the unisabana-herons ventilator during 24 hours [device],intervention_2827
+"evaluation of clinical, instrumental and laboratory diagnostics tests [diagnostic test]",intervention_2828
+omega-3 fatty acid supplement [drug],intervention_2829
+placebo/control [drug],intervention_2830
+sars-cov2 autoantibody detection [diagnostic test],intervention_2831
+seroprevalence of sars-cov-2 infection in patients with hiv infection [other],intervention_2832
+nuvastatic [drug],intervention_2833
+lopinavir/ ritonavir [drug],intervention_2834
+lopinavir/ ritonavir placebo [other],intervention_2835
+hydroxycloroquine and azythromycine [combination product],intervention_2836
+cospherunate/azythromycine [combination product],intervention_2837
+cospherunate/phytomedicine/azythromycien [combination product],intervention_2838
+echocardiogram 2d [diagnostic test],intervention_2839
+heparin sodium [drug],intervention_2840
+mf59 adjuvanted sars-cov-2 sclamp vaccine 5mcg [biological],intervention_2841
+mf59 adjuvanted sars-cov-2 sclamp vaccine 15mcg [biological],intervention_2842
+mf59 adjuvanted sars-cov-2 sclamp vaccine 45mcg [biological],intervention_2843
+immunofree tablets and reginmune capsule [combination product],intervention_2844
+tenecteplase [drug],intervention_2845
+vitros anti-sars-cov-2 igg test [diagnostic test],intervention_2846
+zinc picolinate [dietary supplement],intervention_2847
+zinc picolinate placebo [dietary supplement],intervention_2848
+resveratrol placebo [dietary supplement],intervention_2849
+covid-19 convalescent plasma (ccp) plus standard of care (soc) [biological],intervention_2850
+standard of care (soc) plus placebo [biological],intervention_2851
+acknowledgement racial injustice ama [behavioral],intervention_2852
+african american sender acknowledgement [behavioral],intervention_2853
+african american sender in informational videos. [behavioral],intervention_2854
+racial inequality highlighted [behavioral],intervention_2855
+ama acknowledgement drug pricing [behavioral],intervention_2856
+white sender in acknowledgement [behavioral],intervention_2857
+white sender in informational videos [behavioral],intervention_2858
+no racial inequality highlighting [behavioral],intervention_2859
+placebo videos [behavioral],intervention_2860
+povidone-iodine solution 1.25% w/w [0.125% available iodine] usp [drug],intervention_2861
+interferon alfa [drug],intervention_2862
+high dose interferon-beta 1a [drug],intervention_2863
+low dose interferon-beta 1a [drug],intervention_2864
+sng001 [drug],intervention_2865
+growth hormone [drug],intervention_2866
+nasopharyngeal and throat/oropharyngeal swabs analyses by rt-pcr and ddpcr [diagnostic test],intervention_2867
+ivig [drug],intervention_2868
+bcg tokyo-172 strain solution [drug],intervention_2869
+edoxaban tablets [drug],intervention_2870
+mr-pro-adm [other],intervention_2871
+bovine lactoferrin [dietary supplement],intervention_2872
+maltodextrin [dietary supplement],intervention_2873
+inm005 [drug],intervention_2874
+supine position [other],intervention_2875
+covid-19 androgen sensitivity test (covast) [genetic],intervention_2876
+recovered covid 19 patients plasma [biological],intervention_2877
+symptom survey [other],intervention_2878
+kelea excellerated water [device],intervention_2879
+transpulmonary pressure measurements [diagnostic test],intervention_2880
+bgb dxp593 [drug],intervention_2881
+personal behaviours [behavioral],intervention_2882
+hydroxychloroquine/azithromycine [combination product],intervention_2883
+quinquina-stevia/azythromycin [combination product],intervention_2884
+4plants/azythromycin [combination product],intervention_2885
+no interventions [other],intervention_2886
+metformin [drug],intervention_2887
+apps [other],intervention_2888
+mesenchymal stromal cell-based therapy [other],intervention_2889
+"clinical, laboratory and imaging characteristics of pneumonia [other]",intervention_2890
+btl-tml-covid [drug],intervention_2891
+covid-19 standard of care [other],intervention_2892
+sars-cov-2 s1/s2 igg [diagnostic test],intervention_2893
+kamada anti-sars-cov-2 [biological],intervention_2894
+cognitive behavioural group therapy for perinatal anxiety [other],intervention_2895
+management strategy of outpatient with mild to moderate sars-cov-2 pneumonia [other],intervention_2896
+povidine iodine nasal swabs [drug],intervention_2897
+cyp-001 [biological],intervention_2898
+linagliptin tablet [drug],intervention_2899
+insulin [drug],intervention_2900
+dapansutrile capsules [drug],intervention_2901
+placebo capsules [drug],intervention_2902
+sofosbuvir and ledipasvir [drug],intervention_2903
+family nurture intervention (fni) [behavioral],intervention_2904
+earsats pulse oximeter probe [device],intervention_2905
+difficulties lived by disabled children's parents in the period of covid-19 pandemic [other],intervention_2906
+cross sectional study using scientifically validated psychometric scales [other],intervention_2907
+treamid [drug],intervention_2908
+allogeneic mesenchymal stem cell [drug],intervention_2909
+renin-angiotensin system inhibitors [drug],intervention_2910
+c2rx [device],intervention_2911
+db-001 [biological],intervention_2912
+immune response study [diagnostic test],intervention_2913
+ucmscs [biological],intervention_2914
+ak119 [drug],intervention_2915
+ensifentrine dose 1 [drug],intervention_2916
+placebo pmdi [drug],intervention_2917
+collection of odour samples [behavioral],intervention_2918
+aaz covid-19 rapid test [diagnostic test],intervention_2919
+oropharyngeal swabs [diagnostic test],intervention_2920
+exo 1 inhalation [procedure],intervention_2921
+exo 2 inhalation [procedure],intervention_2922
+placebo inhalation [procedure],intervention_2923
+tear collection [diagnostic test],intervention_2924
+expression of receptors and activating proteases [genetic],intervention_2925
+polymorphism of the hsd3b1 [genetic],intervention_2926
+bva-100 [device],intervention_2927
+fenofibrate [other],intervention_2928
+simha kriya [behavioral],intervention_2929
+reading a book [behavioral],intervention_2930
+no intervention / compare the difference in respiratory rate between h0 and h12 of the initiation of morphine between the control and interventional groups [other],intervention_2931
+essential oil blend [other],intervention_2932
+control blend [other],intervention_2933
+dose finding phase (mtd) [biological],intervention_2934
+partially hla-matched sars-covsts [biological],intervention_2935
+routine care (no sars-covsts) [other],intervention_2936
+"analysis of cytokine response, innate and adaptive immune response, complement activation, and serum neurofilaments as a marker of neurological damage. [other]",intervention_2937
+"mri (heart, brain, lungs, kidney) [diagnostic test]",intervention_2938
+bloodwork [diagnostic test],intervention_2939
+cognitive testing [other],intervention_2940
+olfaction testing [other],intervention_2941
+spirometry [diagnostic test],intervention_2942
+walk test [other],intervention_2943
+questionnaire filling [other],intervention_2944
+covid-19 infection status [other],intervention_2945
+artemisia annua leaf [drug],intervention_2946
+qazcovid-in¬¨√¶ - covid-19 inactivated vaccine [biological],intervention_2947
+experts consensus [other],intervention_2948
+broncho-vaxom¬¨√¶ [drug],intervention_2949
+valproate [drug],intervention_2950
+quetiapine [drug],intervention_2951
+thoraxic computed tomography [diagnostic test],intervention_2952
+pulmonary function testing [diagnostic test],intervention_2953
+zofin [biological],intervention_2954
+electronic survey questionnaire [other],intervention_2955
+aviptadil 67≈ì¬∫g [drug],intervention_2956
+placebo 0.9% nacl solution [drug],intervention_2957
+mesenchymal stem cell therapy [biological],intervention_2958
+qrt-pcr and serology [diagnostic test],intervention_2959
+physiology [other],intervention_2960
+v/q spect-ct [other],intervention_2961
+st. george's respiratory questionnaire (sgrq) [other],intervention_2962
+mmrc (modified medical research council) dyspnea scale [other],intervention_2963
+six-minute walk test (6mwt) [other],intervention_2964
+spirometry [other],intervention_2965
+plethysmography & dlco [other],intervention_2966
+airwave oscillometry [other],intervention_2967
+testing procedure for binding antibodies [diagnostic test],intervention_2968
+neutralizing antibodies [diagnostic test],intervention_2969
+in01 vaccine [biological],intervention_2970
+defibrotide [drug],intervention_2971
+questionnaire and optional interview [other],intervention_2972
+quality of live assessment [other],intervention_2973
+hads questionnaire [diagnostic test],intervention_2974
+electrolytes [other],intervention_2975
+infusion placebo [other],intervention_2976
+"covid-19 antigen/antibody rapid testing, mobile device image capture and telemedicine support [diagnostic test]",intervention_2977
+magnetic resonance spectroscopy (mrs). [other],intervention_2978
+collagen-polyvinylpyrrolidone [drug],intervention_2979
+extravascular lung water index [device],intervention_2980
+pulmonary vascular permeability index [device],intervention_2981
+chadox1 ncov-19 0.5ml boost [biological],intervention_2982
+behaviour change technique intervention to improve quality of life [behavioral],intervention_2983
+sars-cov-2 vaccine (inactivated) [biological],intervention_2984
+eit-group [other],intervention_2985
+ardsnet [other],intervention_2986
+nutritional assessment [other],intervention_2987
+lung ct [diagnostic test],intervention_2988
+rapid serological test [other],intervention_2989
+"urinary ngal, timp-2, igfbp7, il-6, viral load and metabolomic [diagnostic test]",intervention_2990
+single high dose vitamin d [drug],intervention_2991
+treatment as usual vitamin d [drug],intervention_2992
+umbilical cord lining stem cells (ulsc) [biological],intervention_2993
+placebo (carrier control) [other],intervention_2994
+tele-pulmonary rehabilitation [other],intervention_2995
+personal protective testing booth [other],intervention_2996
+psychological stress and adaptation at work score (psas) [diagnostic test],intervention_2997
+pf-07304814 [drug],intervention_2998
+customized questionnaire [other],intervention_2999
+immunoglobulin [biological],intervention_3000
+placebo (pb0) [drug],intervention_3001
+"cannabis, medical [drug]",intervention_3002
+recharge [behavioral],intervention_3003
+self study [behavioral],intervention_3004
+multicapillary column coupled ion mobility spectrometry [diagnostic test],intervention_3005
+complete thrombophilic profile testing by multiplex pcr [genetic],intervention_3006
+biological:oral polio vaccine [biological],intervention_3007
+comparable placebo [biological],intervention_3008
+na-831 [drug],intervention_3009
+comparable placebo of drug [drug],intervention_3010
+combination of oral polio vaccine and na-831 [combination product],intervention_3011
+comparable placebo of oral polio vaccine and placebo of drug [combination product],intervention_3012
+shared decision making [behavioral],intervention_3013
+mesenchymal stem cell [biological],intervention_3014
+nebulised heparin [drug],intervention_3015
+two dose menacwy vaccine 4-12 weeks [biological],intervention_3016
+nintedanib 150 mg [ofev] [drug],intervention_3017
+lovenox 40 mg in 0.4 ml prefilled syringe [drug],intervention_3018
+ultrasound of the lower limbs [device],intervention_3019
+generalized anxiety disorder-7 (gad 7) [diagnostic test],intervention_3020
+background questionnaire [diagnostic test],intervention_3021
+impact of covid-19 questionnaire [diagnostic test],intervention_3022
+confinement and communication during the covid-19 pandemic [diagnostic test],intervention_3023
+mental health questionnaire [diagnostic test],intervention_3024
+patient health questionnaire (phq-9) [diagnostic test],intervention_3025
+post traumatic stress disorder questionnaire (ptsd-8) [diagnostic test],intervention_3026
+experiences in close relationship scale questionnaire (ecr-s) [diagnostic test],intervention_3027
+nil intervention [other],intervention_3028
+antidiabetic treatment [other],intervention_3029
+ultra brief online mindfulness-based intervention [behavioral],intervention_3030
+nutritional support system (nss) [dietary supplement],intervention_3031
+laboratory tests [diagnostic test],intervention_3032
+orthopaedic surgical procedures [procedure],intervention_3033
+morning yoga-based breathing support [behavioral],intervention_3034
+pre_lunch yoga-based breathing support [behavioral],intervention_3035
+pre_dinner yoga-based breathing support [behavioral],intervention_3036
+maternal stress [other],intervention_3037
+vitamin d3 or placebo [drug],intervention_3038
+socialization [behavioral],intervention_3039
+virtual group exercise [behavioral],intervention_3040
+nutrition consult and protein supplementation [combination product],intervention_3041
+medication review [behavioral],intervention_3042
+online instruction [behavioral],intervention_3043
+in-person instruction [behavioral],intervention_3044
+video-based intervention [other],intervention_3045
+testing of sars-cov-2 antibodies [diagnostic test],intervention_3046
+"covid-19 igg / igm rapid test (whole blood, serum, plasma) [diagnostic test]",intervention_3047
+choices and judgements [behavioral],intervention_3048
+sars-cov-2 antibody test [diagnostic test],intervention_3049
+hyperimmune immunoglobulin to sars-cov-2 (hivig) [drug],intervention_3050
+"change in knowledge, motivation, skills, resources [behavioral]",intervention_3051
+magnetic resonance imaging [diagnostic test],intervention_3052
+not applicable (observational study) [other],intervention_3053
+internet-based cognitive behavioral therapy [behavioral],intervention_3054
+quality of life promotion [other],intervention_3055
+colchicine 0.5 mg [drug],intervention_3056
+written summary of rounds [behavioral],intervention_3057
+mw33 injection [combination product],intervention_3058
+mw33 injection placebo [combination product],intervention_3059
+questionnaire completion [behavioral],intervention_3060
+inhaled hydroxychloroquine [drug],intervention_3061
+intranasal heparin sodium (porcine) [drug],intervention_3062
+limbix spark [device],intervention_3063
+psychoeducation [other],intervention_3064
+polyoxidonium [drug],intervention_3065
+personal protective equipment (ppe) [device],intervention_3066
+no personal protective equipment (ppe) [device],intervention_3067
+virtual reality [device],intervention_3068
+covid visitation restrictions [other],intervention_3069
+online kkh sports singapore program with usual care [behavioral],intervention_3070
+self-focused acts [behavioral],intervention_3071
+prosocial acts [behavioral],intervention_3072
+eltrombopag [drug],intervention_3073
+rhtpo [drug],intervention_3074
+telesimulation [behavioral],intervention_3075
+transitional online peer support group (n=20) [behavioral],intervention_3076
+"control group (pharmacotherapy and/or psychotherapy, n=10) [other]",intervention_3077
+assigned strategies:opt-in [behavioral],intervention_3078
+assigned strategies:active choice [behavioral],intervention_3079
+assigned strategies:enhanced active choice [behavioral],intervention_3080
+choice of assignment:opt-in [behavioral],intervention_3081
+choice of assignment:active choice [behavioral],intervention_3082
+choice of assignment:enhanced active choice [behavioral],intervention_3083
+"training for awareness, resilience, and action (tara) [behavioral]",intervention_3084
+ruconest [drug],intervention_3085
+compass [behavioral],intervention_3086
+standard charity resources [behavioral],intervention_3087
+"shingrix (zoster vaccine recombinant, adjuvanted) [biological]",intervention_3088
+flucelvax [biological],intervention_3089
+fluvirin [biological],intervention_3090
+fluzone high dose [biological],intervention_3091
+pioglitazone 30 mg [drug],intervention_3092
+cvncov 6 ≈ì¬∫g [biological],intervention_3093
+cvncov 8 ≈ì¬∫g [biological],intervention_3094
+cvncov 8 ≈ì¬∫g (4 ≈ì¬∫g double dose) [biological],intervention_3095
+hepatitis a vaccine [biological],intervention_3096
+pneumococcal vaccine [biological],intervention_3097
+cvncov (dose level confirmed in part 1) [biological],intervention_3098
+arct-021 dose 4 [biological],intervention_3099
+thoracic ct-scan [radiation],intervention_3100
+optimized management of covid-19 positive kidney transplant recipients:single center experience from the middle east [other],intervention_3101
+vib7734 [drug],intervention_3102
+vcpm [other],intervention_3103
+probiotics [dietary supplement],intervention_3104
+co-mestring (co-coping) [behavioral],intervention_3105
+vesta respirator [device],intervention_3106
+conventional n95 respirator [device],intervention_3107
+telehealth coaching sessions [behavioral],intervention_3108
+adimrsc-2f [biological],intervention_3109
+congenital malformation [other],intervention_3110
+"symptomatology, treatment. daily activities and anxiety for cardiovascular patients survey (strata) [other]",intervention_3111
+survey work [other],intervention_3112
+increasing willingness and uptake of covid-19 testing and vaccination [behavioral],intervention_3113
+brief behavioral activation with mental imagery [behavioral],intervention_3114
+minimal attention control intervention [behavioral],intervention_3115
+colgate periogard mouthwash [other],intervention_3116
+colgate peroxyl mouthwash [other],intervention_3117
+colgate total mouthwash [other],intervention_3118
+placebo mouthwash (water) [other],intervention_3119
+late dexamethazone [drug],intervention_3120
+descartes 30 [biological],intervention_3121
+chadox1 ncov-19 single dose [biological],intervention_3122
+menacwy single dose [biological],intervention_3123
+chadox1 ncov-19 two dose [biological],intervention_3124
+menacwy two dose [biological],intervention_3125
+ct-p59 [drug],intervention_3126
+mindfulness-based cognitive therapy [behavioral],intervention_3127
+muscle relaxation therapy [behavioral],intervention_3128
+resilience program [behavioral],intervention_3129
+brief skills for safer living [behavioral],intervention_3130
+quantitative and qualitative assessments of mental health [diagnostic test],intervention_3131
+medical record review - inpatient treatment [other],intervention_3132
+online questionnaires [other],intervention_3133
+psqi [other],intervention_3134
+tape-software [device],intervention_3135
+stress and emotion management [behavioral],intervention_3136
+curosurf¬¨√¶ (poractant alfa) [drug],intervention_3137
+therapeutic exercise and education [other],intervention_3138
+video chat +personalized feedback [behavioral],intervention_3139
+video chat + basic feedback [behavioral],intervention_3140
+discussion board for social support +basic feedback [behavioral],intervention_3141
+discussion board for social support+personalized feedback [behavioral],intervention_3142
+mobile mental health app - 1 [behavioral],intervention_3143
+mobile mental health app - 2 [behavioral],intervention_3144
+mobile mental health app - 3 [behavioral],intervention_3145
+mobile mental health app - 4 [behavioral],intervention_3146
+mobile mental health app - 5 [behavioral],intervention_3147
+mobile mental health app - 6 [behavioral],intervention_3148
+mobile mental health app - 7 [behavioral],intervention_3149
+mobile mental health app - 8 [behavioral],intervention_3150
+mobile mental health app - 9 [behavioral],intervention_3151
+mobile mental health app - 10 [behavioral],intervention_3152
+biological/vaccine:recombinant new coronavirus vaccine (cho cell) low-dose group [biological],intervention_3153
+biological/vaccine:recombinant new coronavirus vaccine (cho cells) high-dose group [biological],intervention_3154
+biological/vaccine:recombinant new coronavirus vaccine (cho cells) placebo group [biological],intervention_3155
+e-ink screen [device],intervention_3156
+treatment as usual [behavioral],intervention_3157
+telehealth phone calls [behavioral],intervention_3158
+volunteer of tip-oa program [other],intervention_3159
+stakeholder of tip-oa program [other],intervention_3160
+favicovir 200 mg film tablet [drug],intervention_3161
+favira 200 mg film tablet [drug],intervention_3162
+fiberoptic bronchoscopy (fob) [procedure],intervention_3163
+bronchoalveolar lavage (bal) [procedure],intervention_3164
+electrical impedance tomography (eit) [diagnostic test],intervention_3165
+arterial blood gas test (abg) [diagnostic test],intervention_3166
