@@ -19,6 +19,8 @@ Neo4j Python Driver is required:
 ```
 pip install neo4j
 ```
+![Screenshot of Neo4j graph database](img/neo4j_screenshot.png)
+*Screenshot of COVID-19 Trial Graph*
 ## Cypher query evaluation
 <em>Case query 1</em>
 
