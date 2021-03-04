@@ -29,7 +29,7 @@ as the intervention
 ```
 match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention) 
 where toLower(t.name) CONTAINS "remdesivir"
-return(c)
+return distinct c
 ```
 <em>Case query 2</em>
 
@@ -40,7 +40,7 @@ match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention)
 where toLower(t.name) CONTAINS "remdesivir"
 AND EXISTS {match (c)-[ic:EXCLUDE_CONDITION]->(condi:Condition) 
 where condi.id = "4299535"}
-return(c)
+return distinct c
 ```
 OR
 ```
@@ -48,7 +48,7 @@ match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention)
 where toLower(t.name) CONTAINS "remdesivir"
 AND EXISTS {match (c)-[ic:EXCLUDE_CONDITION]->(condi:Condition)
 where condi.name = "Pregnant"}
-return(c)
+return distinct c
 ```
 
 <em>Case query 3</em>
@@ -60,7 +60,7 @@ match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention)
 where toLower(t.name) CONTAINS "hydroxychloroquine"
 AND EXISTS {match (c)-[ic:INCLUDE_CONDITION]->(condi:Condition) 
 where condi.id = "312437"}
-return(c)
+return distinct c
 ```
 OR
 ```
@@ -68,32 +68,22 @@ match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention)
 where toLower(t.name) CONTAINS "hydroxychloroquine"
 AND EXISTS {match (c)-[ic:INCLUDE_CONDITION]->(condi:Condition)
 where condi.name = "Dyspnea"}
-return(c)
+return distinct c
 ```
 
 <em>Case query 4</em>
 
 Retrieve all COVID-19 clinical trials in the United States
 that target “hydroxychloroquine” as the intervention
-and allow patients with diabetes [OMOP ID: 312437] to participate
-```
-match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention) 
-where toLower(t.name) CONTAINS "hydroxychloroquine"
-AND EXISTS {match (c)-[rloc:HAS_LOCATION]->(loc:Location) 
-where toLower(loc.name) = "united states"}  
-AND EXISTS {match (c)-[ic:INCLUDE_CONDITION]->(condi:Condition) 
-where condi.id = "45879799"}
-return(c)
-```
-OR
+and allow patients with diabetes to participate
 ```
 match (c:Clinicaltrial)-[r:HAS_INTERVENTION]->(t:Intervention)
 where toLower(t.name) CONTAINS "hydroxychloroquine"
 AND EXISTS {match (c)-[rloc:HAS_LOCATION]->(loc:Location)
 where toLower(loc.name) = "united states"}
 AND EXISTS {match (c)-[ic:INCLUDE_CONDITION]->(condi:Condition)
-where condi.name = "Diabetes"}
-return(c)
+where toLower(condi.name) CONTAINS "diabetes"}
+return distinct c
 ```
 
 We also provide eligibility criteria terms mapping file for the reference. Users can use this file 
